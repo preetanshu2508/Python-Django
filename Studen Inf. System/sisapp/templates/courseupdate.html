@@ -1,0 +1,24 @@
+{% load staticfiles %}
+
+<html>
+<head>
+	<title>
+		Configure
+	</title>
+	<style>
+	table{
+		margin-left: 200px;
+	}
+	</style>
+</head>
+<body>
+	<form name="log" action="/findcourse/" method="POST"> <br>
+		<h1>Course Update Form  </h1>
+		{% for e in alldata %}
+		Course ID <input type="text" value="{{e.Course_ID}}" name="cname" readonly><br>
+		Course Name <input type="text" value="{{e.Course_Name}}" name="cname"><br>
+	{%endfor %}
+	</table>	
+	</form>
+</body>
+</html>

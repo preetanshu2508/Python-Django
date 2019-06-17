@@ -1,0 +1,30 @@
+
+<html>
+<head>
+{% load staticfiles %}
+
+	<title>
+		Configure
+	</title>
+	<style>
+	table{
+		margin-left: 200px;
+	}
+	</style>
+</head>
+<body>
+	<form name="log" action="/configcourse/" method="POST" <br>
+		<table border="1">
+		<tr bgcolor="cyan">
+			<th>Course Name</th><th>Course ID</th>
+		</tr>
+	{% for e in alldata %}
+		<tr bgcolor="brown">
+		<td><a href='/findcourse/{{e.Course_ID}}'>{{e.Course_ID}}</a></td>
+		<td>{{e.Course_Name}}</td>	
+		</tr>
+	{%endfor %}
+	</table>	
+	</form>
+</body>
+</html>

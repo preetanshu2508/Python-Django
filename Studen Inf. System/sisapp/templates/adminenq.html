@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+
+<style>
+
+	@charset "utf-8";
+/*CSS Document*/
+body{
+	width:90%;
+	min-height:90%;
+	padding:25px;
+	margin:0;
+}
+ul,ol{
+	padding:0;
+	margin:0;
+	list-style:none;
+	font-family:arial;
+}
+ul#main-nav>li,ul#main-nav>li a{display:inline-block;}
+ul#main-nav>li>a{
+	padding:15px 60px;
+	text-decoration:none;
+	color:#fff;
+	width:140px;
+	background-color:#ff6600;
+	border-left:1px solid #E75B04;
+}
+ul#main-nav>li:hover>a{
+	background:#E75B04;
+}
+/*CSS for subnavigattion*/	
+#main-nav li{
+	position:relative;
+}
+.subnav{
+	position:absolute;
+}
+.subnav{
+	width:100%;
+	background-color:#dadada;
+	box-sizing:border-box;
+	overflow:hidden;
+	display:none;
+	margin-left:261px;
+	padding-right:30px;
+	margin-top:-30px;
+	list-style-type: none;
+	float:left;
+}
+.subnav a{
+	color:#333;
+	text-decoration:none;
+	display:block;
+	padding:10px 15px;
+	border-bottom:1px solid #ccc;
+	width:100%
+}
+.subnav a:hover{
+	background:#E75B04;
+	color:#fff;
+}
+#main-nav>li:hover ul{
+	display:block;
+}
+
+</style>
+
+</head>
+<body>
+<h2><center><ADMIN PANEL</center></h2>
+<form>
+	<center>
+		<nav>
+	     <ul id="main-nav">
+		      <li><a href="#">Course</a>
+			          <ul class="subnav">
+				  		  <li><a href="/courseshow/">Add</a></li>
+		                  <li><a href="/courseremove/">Delete</a></li>
+                          <li><a href="/courseupdate/">Update</a></li>
+					  </ul>
+			   </li><br><br>
+			  <li><a href="#">Fee Plan</a>
+				<ul class="subnav">
+				  		  <li><a href="/feeplanadd/">Add</a></li>
+		                  <li><a href="#">Delete</a></li>
+                          <li><a href="/feeplanshow/">Update</a></li>
+			   	  </ul>
+				</li><br><br>
+              <li><a href="#">Delete Registration</a> 
+			  </li> <br><br>
+               <li><a href="#">Upgrade</a></li><br><br>
+               <li><a href="#">Batch Allocation</a></li>
+		</ul>
+	 </nav>
+	</center>
+</form>
+</body>
+</html>

@@ -1,0 +1,11 @@
+import smtplib
+gmailaddress=input("what is your gmail address")
+gmailpasswrd=input("input your paswrd")
+mailto=input("whatp emailadreess do you want to send")
+msg=input("what is your msg\n")
+mailServer=smtplib.SMTP('smtp.gmail.com',587)
+mailServer.starttls()
+mailServer.login(gmailaddress,gmailpaswrd)
+mailServer.sendmail(gmailaddress,mailto,msg)
+print("\n Sent")
+mailServer.quit()

@@ -1,0 +1,1001 @@
+Emp ID,First Name,Gender,E Mail,Date of Birth,Age in Yrs.,Phone No. ,County,City,State,Premium-term,Premium-amount,Defaulter
+850297,Shawna,F,shawna.buck@gmail.com,12/12/1971,45.66,702-771-7149,Clark,Las Vegas,NV,Half-yearly,119090,No
+304721,Nathaniel,M,nathaniel.burke@walmart.com,10/31/1993,23.76,231-765-6923,Lake,Irons,MI,Yearly,117991,Yes
+412317,Elisabeth,F,elisabeth.foster@gmail.com,11/26/1994,22.68,270-749-4774,Fayette,Lexington,KY,Half-yearly,161045,No
+621375,Briana,F,briana.lancaster@yahoo.com,11/24/1975,41.7,219-623-8216,Lake,Munster,IN,Yearly,142616,Yes
+787549,Estella,F,estella.potter@gmail.com,3/13/1995,22.39,907-677-8486,Fairbanks North Star,Fairbanks,AK,Quatrly,135706,No
+520092,Lamont,M,lamont.woods@hotmail.com,10/13/1991,25.81,236-597-8196,Loudoun,Purcellville,VA,Yearly,173027,No
+795934,Melinda,F,melinda.lopez@hotmail.com,9/15/1984,32.89,210-396-1493,Chambers,Stowell,TX,Yearly,41287,No
+159108,Shanna,F,shanna.silva@gmail.com,6/19/1958,59.15,236-373-6712,Fairfax,Herndon,VA,Single,85833,Yes
+330816,Jasmine,F,jasmine.freeman@gmail.com,8/31/1961,55.95,423-796-1535,Polk,Ocoee,TN,Single,154216,Yes
+532002,Madge,F,madge.sargent@aol.com,10/2/1981,35.84,217-910-0644,Sangamon,Springfield,IL,Single,133003,Yes
+612850,Bethany,F,bethany.cline@yahoo.ca,10/1/1986,30.84,215-970-5881,Lycoming,Montgomery,PA,Yearly,154836,Yes
+483751,Reid,M,reid.randolph@gmail.com,1/20/1989,28.54,209-996-8902,Los Angeles,Pacoima,CA,Yearly,124757,Yes
+252938,Antoine,M,antoine.wiley@verizon.net,2/22/1996,21.44,503-361-6334,Clackamas,Canby,OR,Single,58733,Yes
+966375,Mathew,M,mathew.hodge@hotmail.com,7/5/1995,22.08,209-294-7430,Los Angeles,Van Nuys,CA,Single,75584,No
+707520,Bernardo,M,bernardo.austin@hotmail.com,2/2/1975,42.51,319-716-4227,Marion,Knoxville,IA,Single,118693,No
+673049,Cole,M,cole.jensen@aol.com,2/10/1990,27.48,405-495-4201,Oklahoma,Oklahoma City,OK,Yearly,98381,No
+265124,Tonia,F,tonia.burns@gmail.com,4/19/1985,32.3,209-631-5424,Fresno,Friant,CA,Yearly,102274,No
+300693,Tod,M,tod.holcomb@outlook.com,6/21/1987,30.12,240-364-4220,St. Mary's,Patuxent River,MD,Yearly,91719,Yes
+369712,Yesenia,F,yesenia.guerrero@btinternet.com,3/29/1968,49.36,240-505-5321,Baltimore,Reisterstown,MD,Half-yearly,150016,Yes
+913253,Carey,M,carey.ferrell@yahoo.com,5/22/1972,45.21,212-495-4523,Greene,New Baltimore,NY,Half-yearly,125232,Yes
+308617,Aileen,F,aileen.blanchard@gmail.com,12/5/1986,30.67,308-788-3843,Washington,Herman,NE,Half-yearly,179264,Yes
+766783,Marta,F,marta.cervantes@gmail.com,2/17/1971,46.47,206-858-9176,Grays Harbor,Hoquiam,WA,Yearly,68134,Yes
+959506,Arthur,M,arthur.holloway@aol.com,9/21/1970,46.88,225-832-0451,Winn,Dodson,LA,Yearly,118621,No
+513011,Tara,F,tara.forbes@gmail.com,6/26/1976,41.12,319-249-4281,O'Brien,Sheldon,IA,Yearly,85864,No
+290808,Josef,M,josef.griffin@yahoo.com,8/14/1976,40.98,209-441-9130,Sacramento,Sacramento,CA,Yearly,98030,No
+253588,Keri,F,keri.slater@apple.com,8/3/1960,57.02,207-842-2965,Knox,Friendship,ME,Yearly,149842,No
+865628,Desmond,M,desmond.wynn@hotmail.com,7/9/1992,25.07,209-319-3405,Fresno,Fresno,CA,Yearly,79476,No
+583924,Adrienne,F,adrienne.puckett@verizon.net,5/22/1975,42.21,209-235-0390,San Mateo,Burlingame,CA,Yearly,105366,Yes
+932453,Beatriz,F,beatriz.knowles@gmail.com,2/25/1984,33.44,406-923-1326,Lake,Arlee,MT,Yearly,53311,Yes
+432168,Jermaine,M,jermaine.sykes@apple.com,1/18/1990,27.54,239-204-8747,Putnam,Welaka,FL,Yearly,122631,Yes
+463784,Scott,M,scott.best@cox.net,8/24/1990,26.95,307-504-4165,Sweetwater,Bairoil,WY,Yearly,45210,No
+721098,Isabel,F,isabel.espinoza@gmail.com,12/9/1971,45.67,405-622-8606,Coal,Tupelo,OK,Yearly,115858,No
+392678,Marcelino,M,marcelino.kinney@gmail.com,1/26/1996,21.52,479-929-0873,Little Rock,Little Rock,AR,Yearly,178750,No
+880704,Benjamin,M,benjamin.jennings@gmail.com,5/21/1977,40.21,907-621-7774,Northwest Arctic,Shungnak,AK,Yearly,115574,No
+186102,Marcia,F,marcia.casey@gmail.com,7/24/1966,51.05,210-804-3397,Victoria,Victoria,TX,Yearly,118607,Yes
+350367,Rudolph,M,rudolph.gordon@aol.com,4/28/1979,38.28,304-418-1131,Harrison,Shinnston,WV,Yearly,98990,Yes
+893976,Beverly,F,beverly.rosales@yahoo.com,3/4/1975,42.43,217-490-8205,Vermilion,Rossville,IL,Yearly,139394,Yes
+542826,Marcus,M,marcus.bolton@aol.com,7/5/1977,40.09,212-514-2721,Queens,Bellerose,NY,Half-yearly,63525,No
+590579,Priscilla,F,priscilla.mays@gmail.com,9/4/1985,31.92,231-346-3176,Oscoda,Fairview,MI,Half-yearly,185105,No
+297741,Lynn,F,lynn.pena@yahoo.co.in,8/14/1962,54.99,217-334-0502,Stark,Castleton,IL,Half-yearly,48443,No
+458320,Tessa,F,tessa.pace@aol.com,12/7/1957,59.68,319-672-2590,Butler,Austinville,IA,Half-yearly,44198,No
+297059,Rufus,M,rufus.guerra@rediffmail.com,12/25/1967,49.62,212-472-1331,Monroe,Adams Basin,NY,Half-yearly,169620,Yes
+874971,Roman,M,roman.clark@aol.com,12/25/1962,54.63,215-567-2136,Lancaster,Lampeter,PA,Half-yearly,125299,Yes
+136626,Carmela,F,carmela.jefferson@walmart.com,3/17/1975,42.39,239-941-5976,Clay,Keystone Heights,FL,Half-yearly,132431,Yes
+865495,Thurman,M,thurman.good@yahoo.com,1/27/1996,21.52,217-874-3909,Pope,Eddyville,IL,Half-yearly,118525,Yes
+415161,Lemuel,M,lemuel.guerrero@aol.com,6/7/1985,32.16,215-226-4111,Somerset,Listie,PA,Half-yearly,127772,Yes
+279563,Clint,M,clint.bridges@aol.com,5/3/1994,23.25,217-331-1409,Cook,Blue Island,IL,Yearly,67442,Yes
+201710,Karyn,F,karyn.christian@aol.com,5/22/1983,34.21,206-731-9312,Chelan,Ardenvoir,WA,Yearly,96197,Yes
+722543,Lesa,F,lesa.hughes@bp.com,2/13/1981,36.48,219-822-4544,Vigo,Terre Haute,IN,Yearly,96641,Yes
+909337,Rich,M,rich.bates@apple.com,2/28/1989,28.43,270-833-4069,Mason,Maysville,KY,Yearly,145181,Yes
+601071,Liz,F,liz.frank@hotmail.com,3/15/1986,31.39,339-926-4628,Hampshire,Amherst,MA,Yearly,199943,Yes
+269523,Kendra,F,kendra.villarreal@gmail.com,10/22/1963,53.8,319-625-4770,Grundy,Beaman,IA,Yearly,144517,Yes
+310986,Maryellen,F,maryellen.mcfadden@hotmail.co.uk,10/3/1975,41.85,479-467-9379,Jackson,Tuckerman,AR,Yearly,94221,Yes
+323914,German,M,german.carney@aol.com,7/21/1958,59.06,231-975-6713,Montcalm,Lakeview,MI,Yearly,84824,Yes
+928739,Micheal,M,micheal.shannon@earthlink.net,12/8/1986,30.66,217-864-7925,Bureau,Arlington,IL,Yearly,143864,Yes
+238992,Carlo,M,carlo.albert@gmail.com,12/6/1961,55.68,212-267-9103,Onondaga,Liverpool,NY,Yearly,104197,Yes
+434046,Bianca,F,bianca.langley@gmail.com,6/3/1960,57.19,228-683-5798,Jackson,Escatawpa,MS,Yearly,80844,Yes
+971444,Elias,M,elias.cabrera@yahoo.com,7/13/1990,27.06,215-258-0052,Montgomery,Oaks,PA,Half-yearly,87962,Yes
+602683,Alberta,F,alberta.chapman@comcast.net,6/5/1972,45.18,212-884-9934,Monroe,Rochester,NY,Half-yearly,125428,Yes
+145327,Erin,M,erin.olsen@yahoo.ca,8/8/1994,22.99,215-325-1574,Fayette,Farmington,PA,Half-yearly,66575,Yes
+597202,Frederic,M,frederic.stephenson@gmail.com,10/15/1969,47.82,314-672-3681,Barry,Seligman,MO,Half-yearly,192498,Yes
+168824,Tanner,M,tanner.caldwell@aol.com,4/8/1968,49.34,219-315-4592,LaPorte,Michigan City,IN,Half-yearly,116635,Yes
+616665,Clarence,M,clarence.powers@gmail.com,7/5/1982,35.09,229-748-1788,Bibb,Macon,GA,Half-yearly,108511,Yes
+396135,German,M,german.sheppard@gmail.com,7/29/1991,26.02,252-794-3936,Mecklenburg,Matthews,NC,Half-yearly,110021,Yes
+966525,Dion,M,dion.duffy@aol.com,4/6/1995,22.33,201-358-5413,Union,Plainfield,NJ,Half-yearly,124074,Yes
+362287,Cornelius,M,cornelius.townsend@charter.net,6/2/1970,47.19,314-501-3342,Moniteau,High Point,MO,Half-yearly,176165,Yes
+798646,Patsy,F,patsy.koch@gmail.com,7/15/1984,33.06,229-844-7119,Fulton,Atlanta,GA,Half-yearly,87146,No
+451972,Waldo,M,waldo.shields@aol.com,11/29/1970,46.69,270-993-0450,Leslie,Wooton,KY,Half-yearly,62435,No
+993675,Damien,M,damien.rose@gmail.com,7/15/1965,52.07,304-392-5876,Five Forks,Five Forks,WV,Half-yearly,161871,No
+807964,Curt,M,curt.bridges@microsoft.com,10/22/1978,38.79,239-399-1809,Jefferson,Monticello,FL,Half-yearly,97656,No
+769123,Brenton,M,brenton.matthews@bellsouth.net,11/6/1970,46.76,216-585-2060,Marion,Green Camp,OH,Yearly,98023,No
+395792,Miguel,M,miguel.finley@gmail.com,7/6/1980,37.08,405-566-7872,Kingfisher,Kingfisher,OK,Yearly,103749,Yes
+929791,Esperanza,F,esperanza.paul@aol.com,12/10/1960,56.67,236-750-2453,Lexington (city),Lexington,VA,Yearly,176095,No
+141326,Patricia,F,patricia.briggs@yahoo.com,11/13/1975,41.73,240-914-8001,Talbot,Easton,MD,Yearly,160494,No
+232794,Forrest,M,forrest.noel@hotmail.com,3/25/1978,39.37,239-609-5243,Madison,Lee,FL,Yearly,112988,No
+946835,Marjorie,F,marjorie.wells@bp.com,9/14/1961,55.91,316-282-5461,Douglas,Baldwin City,KS,Yearly,128425,No
+894936,Vivian,F,vivian.burnett@gmail.com,2/9/1960,57.5,236-831-5026,Prince Edward,Hampden Sydney,VA,Yearly,93355,No
+946630,Duncan,M,duncan.chen@yahoo.co.uk,2/17/1964,53.48,239-879-2427,Palm Beach,West Palm Beach,FL,Yearly,154843,No
+381338,Miriam,F,miriam.barrett@yahoo.ca,6/25/1990,27.11,210-779-7802,McCulloch,Brady,TX,Yearly,131543,No
+141178,Adam,M,adam.kirby@yahoo.ca,8/11/1963,54,208-736-4975,Latah,Potlatch,ID,Yearly,107957,Yes
+169763,Benjamin,M,benjamin.macdonald@gmail.com,5/16/1976,41.23,316-561-5979,Greeley,Tribune,KS,Yearly,89172,Yes
+326358,Neil,M,neil.murray@apple.com,9/17/1985,31.88,603-851-8092,Strafford,Milton,NH,Yearly,84151,Yes
+185077,Nichole,F,nichole.oneil@shaw.ca,11/30/1957,59.7,209-683-3370,Butte,Bangor,CA,Yearly,153345,Yes
+901185,Jonathon,M,jonathon.pearson@yahoo.com,9/30/1967,49.86,240-746-0671,Montgomery,Silver Spring,MD,Yearly,173372,Yes
+264960,Brent,M,brent.bryant@aol.com,5/9/1960,57.26,423-391-0195,McNairy,Adamsville,TN,Yearly,180468,Yes
+248449,Carlene,F,carlene.cain@rediffmail.com,11/25/1985,31.69,210-510-0508,Harris,Houston,TX,Yearly,107647,Yes
+906870,Arnulfo,M,arnulfo.pittman@yahoo.ca,9/26/1972,44.87,215-333-8078,Schuylkill,Auburn,PA,Yearly,190709,Yes
+160503,Nickolas,M,nickolas.williams@gmail.com,6/23/1985,32.12,307-656-9306,Carbon,Hanna,WY,Yearly,97725,Yes
+212917,Raymundo,M,raymundo.kramer@aol.com,4/29/1975,42.28,252-396-5055,Surry,Toast,NC,Yearly,178073,No
+337955,Jeremiah,M,jeremiah.dotson@cox.net,7/16/1988,29.05,216-364-7679,Morrow,Shauck,OH,Yearly,42840,No
+171553,Tanner,M,tanner.matthews@rediffmail.com,9/24/1976,40.87,907-768-0562,Anchorage Municipality,Anchorage,AK,Half-yearly,161106,No
+433510,Dorian,M,dorian.foster@gmail.com,7/24/1960,57.05,304-937-0141,Canebrake,Canebrake,WV,Yearly,98604,No
+970502,Nora,F,nora.hansen@yahoo.co.uk,11/13/1982,34.73,319-877-0443,Wright,Woolstock,IA,Yearly,159223,No
+668717,Danial,M,danial.watts@hotmail.com,8/15/1959,57.99,206-245-0115,Clallam,Joyce,WA,Half-yearly,188022,No
+479832,Nelson,M,nelson.mcintosh@bp.com,8/17/1975,41.98,239-650-1951,Baker,Glen Saint Mary,FL,Half-yearly,139662,No
+273645,Manuel,M,manuel.fulton@gmail.com,7/16/1983,34.06,339-281-4930,Peabody,Peabody,MA,Half-yearly,80629,No
+266284,Dominic,M,dominic.henson@aol.com,4/8/1979,38.33,314-758-8742,Chariton,Sumner,MO,Half-yearly,180062,No
+332802,Lowell,M,lowell.erickson@gmail.com,9/2/1982,34.93,308-308-0823,Cheyenne,Potter,NE,Half-yearly,104764,Yes
+166615,Jayne,F,jayne.coleman@yahoo.ca,8/18/1980,36.97,236-667-5880,Norfolk (city),Norfolk,VA,Half-yearly,171662,Yes
+953967,Cornell,M,cornell.daniel@yahoo.com,5/27/1960,57.21,212-208-7933,Queens,Woodhaven,NY,Half-yearly,197951,Yes
+114425,Doris,F,doris.glenn@yahoo.co.uk,1/14/1976,41.56,270-590-4835,Lawrence,Blaine,KY,Half-yearly,188137,Yes
+676618,Tabatha,F,tabatha.gonzales@sbcglobal.net,6/9/1966,51.17,215-935-5310,Chester,Steelville,PA,Half-yearly,160421,Yes
+581563,Jerome,M,jerome.foreman@verizon.net,12/11/1988,28.65,203-633-8482,Middlesex,Cobalt,CT,Half-yearly,125044,Yes
+925484,Elton,M,elton.ferguson@ibm.com,11/30/1982,34.68,217-662-5907,DuPage,Lombard,IL,Half-yearly,176750,Yes
+328562,Stacy,M,stacy.jennings@gmail.com,6/6/1980,37.17,225-548-6104,Catahoula,Enterprise,LA,Half-yearly,134904,Yes
+759248,Rory,M,rory.fowler@shaw.ca,3/6/1976,41.42,215-234-1586,Armstrong,Templeton,PA,Half-yearly,70626,Yes
+158543,Greg,M,greg.kane@bp.com,4/13/1964,53.33,270-884-8389,Henry,Turners Station,KY,Half-yearly,62904,Yes
+275491,Julian,M,julian.russo@gmail.com,4/15/1958,59.33,207-313-8110,Lisbon Center,Lisbon Center,ME,Half-yearly,117739,Yes
+257927,Agnes,F,agnes.herman@gmail.com,12/12/1975,41.65,303-834-2433,Crowley,Sugar City,CO,Half-yearly,128225,Yes
+144114,Nancy,F,nancy.gillespie@ibm.com,4/26/1980,37.28,217-435-0157,Johnson,Cypress,IL,Half-yearly,41796,Yes
+262843,Tyrone,M,tyrone.soto@yahoo.com,4/7/1973,44.34,215-785-6734,Cameron,Driftwood,PA,Half-yearly,175995,Yes
+963676,Bradley,M,bradley.chan@hotmail.com,6/30/1979,38.1,503-254-6301,Multnomah,Portland,OR,Half-yearly,58663,Yes
+745672,Emile,M,emile.love@gmail.com,10/19/1980,36.8,236-371-6203,Accomack,Mears,VA,Half-yearly,144867,Yes
+135089,Zachary,M,zachary.gregory@cox.net,11/14/1986,30.72,907-896-4031,Fairbanks North Star,Fairbanks,AK,Half-yearly,193629,Yes
+593953,Tara,F,tara.gutierrez@aol.com,1/29/1971,46.53,239-922-7150,Pasco,Zephyrhills,FL,Half-yearly,115223,Yes
+169348,Aubrey,M,aubrey.pugh@gmail.com,12/13/1993,23.64,239-405-4736,Sarasota,Osprey,FL,Half-yearly,56797,Yes
+976096,Carroll,M,carroll.sweeney@walmart.com,6/13/1989,28.14,218-412-2298,Stearns,Saint Martin,MN,Half-yearly,103003,Yes
+790389,Claudette,F,claudette.solomon@yahoo.com,12/20/1984,32.62,308-298-8715,Douglas,Omaha,NE,Half-yearly,181603,Yes
+143898,Ricky,M,ricky.bowers@hotmail.com,11/5/1976,40.75,205-610-5770,Lawrence,Mount Hope,AL,Half-yearly,124155,Yes
+749765,Brian,M,brian.fitzpatrick@gmail.com,11/30/1978,38.68,239-710-0174,Orange,Orlando,FL,Half-yearly,151448,Yes
+877422,Nicholas,M,nicholas.branch@gmail.com,2/4/1992,25.5,209-630-8100,Los Angeles,Pomona,CA,Half-yearly,134715,Yes
+825343,Eileen,F,eileen.hobbs@gmail.com,5/10/1964,53.25,262-747-2220,Winnebago,Oshkosh,WI,Half-yearly,139476,Yes
+155570,Colin,M,colin.wilson@yahoo.com,3/14/1976,41.4,210-884-1227,Montgomery,Conroe,TX,Half-yearly,131510,Yes
+587361,Rosario,F,rosario.trevino@hotmail.co.uk,12/20/1960,56.64,239-837-1872,Gadsden,Chattahoochee,FL,Half-yearly,46453,No
+191240,Salvador,M,salvador.gutierrez@hotmail.com,2/27/1994,23.43,270-927-3494,Pike,Huddy,KY,Half-yearly,98487,No
+404070,Aldo,M,aldo.medina@gmail.com,11/6/1973,43.75,701-676-5051,Emmons,Linton,ND,Half-yearly,61791,No
+192175,Bret,M,bret.blevins@gmail.com,9/30/1979,37.85,231-210-4653,Tuscola,Vassar,MI,Half-yearly,163665,No
+825853,Dominic,M,dominic.mosley@gmail.com,7/19/1996,21.04,206-882-1588,Clark,Vancouver,WA,Half-yearly,112683,No
+430843,Karina,F,karina.owens@gmail.com,10/30/1957,59.78,605-328-0861,Turner,Centerville,SD,Half-yearly,91713,No
+597805,Marquis,M,marquis.perkins@aol.com,11/30/1984,32.68,212-941-0218,Ontario,Manchester,NY,Half-yearly,186371,No
+651120,Damon,M,damon.solomon@aol.com,7/31/1964,53.03,218-273-9680,Chisago,Stacy,MN,Half-yearly,157154,No
+995242,Leonel,M,leonel.atkins@hotmail.com,7/11/1996,21.06,304-862-3580,McDowell,Isaban,WV,Half-yearly,190537,No
+839558,Teddy,M,teddy.merritt@msn.com,6/10/1977,40.16,215-283-5083,Jefferson,Timblin,PA,Half-yearly,43192,No
+398788,Alexandria,F,alexandria.long@hotmail.com,2/15/1989,28.47,217-924-3225,McLean,Cooksville,IL,Yearly,136817,No
+166790,Margaret,F,margaret.reilly@yahoo.com,10/5/1971,45.84,239-788-2444,Hillsborough,Plant City,FL,Yearly,131166,No
+581261,Willis,M,willis.rose@gmail.com,7/27/1979,38.03,236-423-4606,Brunswick,Freeman,VA,Yearly,192446,No
+793523,Donovan,M,donovan.bowman@hotmail.com,3/3/1987,30.42,207-867-3545,Waldo,Monroe,ME,Yearly,145629,No
+178602,Kristina,F,kristina.mcgowan@gmail.com,8/29/1978,38.94,209-530-2084,Merced,Merced,CA,Yearly,185016,Yes
+346662,Garth,M,garth.clarke@yahoo.com,11/11/1969,47.74,270-393-1575,Pike,Phyllis,KY,Yearly,80047,Yes
+817037,Martin,M,martin.buchanan@charter.net,9/14/1974,42.9,205-434-3924,Cherokee,Centre,AL,Yearly,105374,Yes
+648913,Irwin,M,irwin.jenkins@aol.com,5/20/1975,42.22,231-682-6128,Grand Traverse,Traverse City,MI,Yearly,48133,Yes
+924281,Reynaldo,M,reynaldo.sosa@gmail.com,10/15/1965,51.82,212-493-7300,Jamaica,Jamaica,NY,Yearly,153633,Yes
+951857,Sherri,F,sherri.snyder@gmail.com,5/30/1991,26.18,314-249-8205,St. Louis,Saint Louis,MO,Yearly,65798,Yes
+474759,Johnny,M,johnny.dunlap@gmail.com,11/2/1962,54.77,229-688-3291,Irwin,Irwinville,GA,Yearly,193315,Yes
+144715,Earnest,M,earnest.kirk@gmail.com,3/1/1965,52.44,207-952-5215,Aroostook,Masardis,ME,Yearly,168726,Yes
+141086,Bernardo,M,bernardo.mcdowell@gmail.com,5/28/1963,54.21,239-768-1883,Broward,Hollywood,FL,Yearly,118615,Yes
+633255,Yvette,F,yvette.warner@yahoo.com,6/17/1996,21.13,215-245-5970,Centre,Orviston,PA,Yearly,190579,Yes
+768457,Robby,M,robby.jordan@comcast.net,3/20/1974,43.39,206-604-6965,Pend Oreille,Metaline,WA,Yearly,119793,Yes
+583282,Carolina,F,carolina.coleman@aol.com,10/30/1994,22.76,239-928-5690,Seminole,Sanford,FL,Yearly,166828,Yes
+421955,Sonia,F,sonia.cook@gmail.com,7/3/1965,52.1,236-937-1339,Giles,Pearisburg,VA,Yearly,191691,Yes
+556491,Larry,M,larry.tran@gmail.com,1/12/1970,47.57,304-994-1002,Pliny,Pliny,WV,Yearly,129203,Yes
+701223,Esmeralda,F,esmeralda.grant@yahoo.com,12/19/1990,26.62,262-728-1705,Lafayette,Shullsburg,WI,Yearly,190367,Yes
+122005,Candy,F,candy.singleton@hotmail.com,6/29/1981,36.1,205-585-4936,Elmore,Wetumpka,AL,Half-yearly,175771,Yes
+461385,Emma,F,emma.obrien@gmail.com,9/15/1966,50.9,262-707-3676,Marquette,Briggsville,WI,Half-yearly,182870,Yes
+249180,Scot,M,scot.beach@sbcglobal.net,7/31/1980,37.02,319-334-1932,Pocahontas,Pocahontas,IA,Half-yearly,141641,Yes
+634658,Rolland,M,rolland.mendoza@yahoo.com,8/5/1966,51.01,228-727-6767,Hinds,Jackson,MS,Half-yearly,75123,Yes
+842752,Tommie,F,tommie.sanchez@gmail.com,6/6/1974,43.17,205-823-2834,Randolph,Wedowee,AL,Half-yearly,155291,Yes
+513773,Jessie,M,jessie.cortez@exxonmobil.com,9/20/1981,35.88,239-810-9402,Pinellas,Clearwater,FL,Half-yearly,102944,Yes
+781472,Isiah,M,isiah.guthrie@bellsouth.net,8/19/1965,51.98,385-228-9893,Wasatch,Heber City,UT,Half-yearly,45519,Yes
+747200,Janelle,F,janelle.gill@gmail.com,5/27/1962,55.21,236-897-3910,Falls Church (city),Falls Church,VA,Half-yearly,131182,Yes
+932425,Christoper,M,christoper.haynes@yahoo.com,9/1/1979,37.93,210-869-1768,Lavaca,Speaks,TX,Half-yearly,84029,Yes
+962851,Kathie,F,kathie.kirby@sbcglobal.net,11/22/1986,30.7,505-502-1526,Do¤a Ana,Santa Teresa,NM,Yearly,65985,Yes
+168829,Antonia,F,antonia.kinney@gmail.com,2/9/1985,32.48,239-363-8520,Broward,Fort Lauderdale,FL,Yearly,148623,Yes
+603575,Ophelia,F,ophelia.wagner@ibm.com,2/2/1972,45.52,480-956-7391,Maricopa,Scottsdale,AZ,Yearly,45192,Yes
+419075,Hallie,F,hallie.cervantes@aol.com,6/30/1979,38.1,270-272-6620,Breckinridge,Se Ree,KY,Yearly,192037,Yes
+224473,Adriana,F,adriana.mcfarland@outlook.com,8/29/1978,38.94,308-264-5555,Sheridan,Gordon,NE,Yearly,71847,Yes
+552582,Jana,F,jana.weiss@gmail.com,1/4/1968,49.6,229-852-3944,Clarke,Athens,GA,Yearly,141390,Yes
+724235,Quentin,M,quentin.benson@gmail.com,3/21/1980,37.38,262-949-3970,Chippewa,Chippewa Falls,WI,Yearly,75837,Yes
+908007,Debra,F,debra.pena@ibm.com,11/25/1990,26.69,215-707-4774,Clarion,Kossuth,PA,Yearly,113267,No
+871610,Kenton,M,kenton.moreno@shell.com,1/19/1993,24.54,217-404-9496,Lake,Highland Park,IL,Single,148664,No
+491595,Ian,M,ian.alvarado@aol.com,9/25/1965,51.87,205-934-4799,Madison,Huntsville,AL,Single,109416,No
+821474,Jasper,M,jasper.lucas@yahoo.co.in,9/18/1981,35.88,316-544-2902,Anderson,Greeley,KS,Single,96328,No
+206783,Brock,M,brock.roberts@yahoo.co.in,2/27/1968,49.45,304-276-6112,McDowell,Gary,WV,Single,158082,No
+870463,Salvador,M,salvador.deleon@hotmail.com,4/7/1969,48.34,217-253-3858,Cook,Riverdale,IL,Single,55351,No
+809491,Terence,M,terence.giles@yahoo.com,9/15/1976,40.89,205-271-2216,Shelby,Montevallo,AL,Single,145954,No
+924427,Dario,M,dario.townsend@yahoo.com,5/10/1962,55.25,209-535-5945,Los Angeles,Torrance,CA,Half-yearly,116911,No
+505780,Ester,F,ester.houston@ibm.com,3/12/1978,39.41,215-803-3018,Adams,Arendtsville,PA,Half-yearly,65748,No
+149904,Leanne,F,leanne.mcmahon@shaw.ca,1/11/1964,53.58,207-567-1649,Washington,Brookton,ME,Half-yearly,144108,No
+886315,Valentin,M,valentin.montoya@aol.com,11/7/1965,51.76,423-851-9829,Roane,Kingston,TN,Half-yearly,164411,Yes
+948512,Jared,M,jared.shepherd@ntlworld.com,3/26/1996,21.35,212-443-7359,Chautauqua,Dewittville,NY,Half-yearly,47359,Yes
+780963,Jami,F,jami.cantrell@hotmail.com,3/30/1986,31.35,217-840-0373,Cook,Country Club Hills,IL,Half-yearly,196942,Yes
+282037,Bruno,M,bruno.whitney@sbcglobal.net,3/21/1976,41.38,205-929-8374,Lauderdale,Killen,AL,Half-yearly,182912,Yes
+505758,Garland,M,garland.watkins@apple.com,1/14/1962,55.57,210-488-3772,Bosque,Kopperl,TX,Half-yearly,70852,Yes
+487100,Augustus,M,augustus.maldonado@yahoo.com,5/25/1992,25.19,231-510-3900,Jackson,Napoleon,MI,Half-yearly,139481,Yes
+974444,Luther,M,luther.mcneil@aol.com,3/31/1992,25.34,217-960-5560,Lake,Winthrop Harbor,IL,Half-yearly,46241,Yes
+829416,Jimmy,M,jimmy.molina@gmail.com,5/8/1966,51.26,228-944-2045,Harrison,Biloxi,MS,Half-yearly,138022,Yes
+146825,Morton,M,morton.franklin@cox.net,8/22/1960,56.97,302-718-2676,Kent,Kenton,DE,Half-yearly,136498,Yes
+603179,Andrew,M,andrew.price@yahoo.co.uk,3/6/1987,30.42,216-707-4827,Van Wert,Ohio City,OH,Half-yearly,189614,Yes
+175035,Ava,F,ava.romero@aol.com,5/25/1972,45.21,205-665-8463,DeKalb,Fort Payne,AL,Half-yearly,154633,Yes
+358935,Anastasia,F,anastasia.bowen@gmail.com,12/23/1992,24.61,240-646-3168,Montgomery,Garrett Park,MD,Half-yearly,196480,Yes
+608832,Sabrina,F,sabrina.fowler@outlook.com,1/3/1982,35.59,228-504-7673,Bolivar,Duncan,MS,Half-yearly,130226,Yes
+509911,Kirsten,F,kirsten.lee@hotmail.com,10/16/1968,48.81,314-227-1897,St. Louis (city),Saint Louis,MO,Half-yearly,61126,Yes
+354363,Tabatha,F,tabatha.arnold@gmail.com,7/29/1976,41.02,239-581-1465,Santa Rosa,Bagdad,FL,Half-yearly,62009,Yes
+344607,Gregg,M,gregg.mann@verizon.net,5/15/1959,58.24,339-989-4749,Bristol,Dartmouth,MA,Half-yearly,188608,Yes
+191963,Deanne,F,deanne.mccarty@charter.net,1/3/1974,43.59,319-336-2399,Page,Clarinda,IA,Half-yearly,91068,Yes
+695631,Juanita,F,juanita.zimmerman@hotmail.com,10/16/1974,42.81,907-789-9367,Kenai Peninsula,Seward,AK,Half-yearly,86919,Yes
+547420,Doug,M,doug.small@hotmail.com,12/8/1991,25.65,236-456-9446,Highland,Doe Hill,VA,Half-yearly,139670,No
+403674,Billy,M,billy.mcdowell@gmail.com,10/6/1983,33.83,270-556-2299,Meade,Rhodelia,KY,Half-yearly,170510,No
+988937,Boyd,M,boyd.valencia@gmail.com,6/9/1987,30.16,209-925-2984,Santa Clara,Mount Hamilton,CA,Half-yearly,180715,No
+937737,Roberto,M,roberto.caldwell@gmail.com,8/12/1994,22.98,217-438-3997,Peoria,Peoria,IL,Half-yearly,71924,No
+144235,Kris,M,kris.conner@gmail.com,5/23/1962,55.22,203-368-9792,Windham,Ballouville,CT,Half-yearly,102819,No
+866051,Leann,F,leann.ortiz@gmail.com,2/16/1990,27.46,215-754-3823,Huntingdon,Neelyton,PA,Half-yearly,86569,No
+287787,Joaquin,M,joaquin.bentley@gmail.com,8/24/1961,55.96,236-809-8062,Wythe,Barren Springs,VA,Half-yearly,96012,No
+316579,Leanne,F,leanne.potter@exxonmobil.com,1/25/1989,28.52,907-743-5043,Valdez-Cordova (CA),Cordova,AK,Half-yearly,95604,No
+625981,Jay,M,jay.sanders@gmail.com,1/5/1964,53.6,339-616-2386,Worcester,Oxford,MA,Half-yearly,123069,No
+232661,Luz,F,luz.brown@msn.com,7/6/1961,56.1,803-614-9830,Charleston,Charleston,SC,Half-yearly,111953,No
+863522,Dudley,M,dudley.preston@gmail.com,11/16/1977,39.72,236-552-8765,Lee,Keokee,VA,Half-yearly,121461,No
+118236,Monroe,M,monroe.beach@bp.com,10/18/1987,29.8,225-797-4264,East Feliciana,Norwood,LA,Half-yearly,74452,No
+412201,Dina,F,dina.jones@aol.com,8/26/1990,26.94,218-825-9608,Wright,Monticello,MN,Half-yearly,60935,No
+855988,Christian,M,christian.morrison@yahoo.co.in,7/8/1959,58.1,212-393-3329,Rensselaer,Sand Lake,NY,Half-yearly,75109,Yes
+158689,Lucile,F,lucile.fleming@hotmail.co.uk,12/13/1966,50.66,802-541-8727,Washington,Cabot,VT,Half-yearly,141720,Yes
+737292,Luciano,M,luciano.ray@btinternet.com,10/19/1991,25.79,479-621-5916,Pulaski,Little Rock,AR,Half-yearly,164496,Yes
+596917,Ahmad,M,ahmad.poole@gmail.com,6/6/1973,44.17,219-947-6343,Starke,North Judson,IN,Half-yearly,178345,No
+620634,Janna,F,janna.hopkins@aol.com,11/21/1987,29.7,212-272-9825,Madison,Madison,NY,Half-yearly,40265,No
+130591,Kendrick,M,kendrick.miles@ibm.com,8/10/1962,55,603-789-4081,Hillsborough,Nashua,NH,Half-yearly,134103,No
+579618,Demetrius,M,demetrius.ruiz@gmail.com,12/14/1992,24.64,236-957-6759,Chantilly,Chantilly,VA,Half-yearly,83790,No
+240295,Ken,M,ken.winters@rediffmail.com,2/14/1995,22.47,314-956-9973,Cole,Jefferson City,MO,Half-yearly,131126,No
+846100,Earl,M,earl.gilbert@bp.com,1/14/1973,44.56,212-758-7329,Niagara,Niagara Falls,NY,Half-yearly,129931,No
+431841,Taylor,F,taylor.barlow@aol.com,2/4/1965,52.51,405-534-3458,Washita,Sentinel,OK,Half-yearly,61082,No
+520702,Clarissa,F,clarissa.lawson@hotmail.com,6/26/1993,24.1,319-776-6050,Marshall,Melbourne,IA,Half-yearly,74924,No
+771425,Lewis,M,lewis.fuller@comcast.net,11/1/1958,58.78,270-353-0382,Montgomery,Hope,KY,Half-yearly,81514,No
+189557,Claudine,F,claudine.black@gmail.com,5/24/1978,39.21,215-283-6346,Farrandsville,Farrandsville,PA,Half-yearly,67398,No
+702034,Mitzi,F,mitzi.lynch@aol.com,8/29/1960,56.95,212-439-7992,Onondaga,Jamesville,NY,Half-yearly,122784,Yes
+586207,Michel,M,michel.finch@gmail.com,6/26/1986,31.11,239-671-5547,Lake,Mascotte,FL,Half-yearly,147516,Yes
+835545,Janie,F,janie.velasquez@gmail.com,4/19/1958,59.32,215-463-9949,Crawford,Venango,PA,Half-yearly,90653,No
+326407,Sophie,F,sophie.bass@hotmail.com,1/16/1990,27.55,231-403-9886,Oceana,Mears,MI,Half-yearly,199238,No
+414967,Bette,F,bette.kane@gmail.com,12/30/1979,37.6,215-892-1317,Clinton,Mc Elhattan,PA,Half-yearly,89490,No
+410300,Dena,F,dena.blake@hotmail.com,5/26/1975,42.2,406-262-9506,Powder River,Otter,MT,Half-yearly,160716,No
+252371,Dante,M,dante.farmer@aol.com,7/15/1985,32.06,701-937-3562,Cavalier,Hannah,ND,Half-yearly,191093,No
+297502,Angelina,F,angelina.lynn@rediffmail.com,3/14/1975,42.4,308-901-3456,Sherman,Hazard,NE,Half-yearly,157805,No
+725857,Shannon,F,shannon.snow@yahoo.com,11/3/1961,55.77,252-905-9562,Durham,Durham,NC,Half-yearly,114142,No
+805103,Ron,M,ron.glenn@gmail.com,7/6/1993,24.08,216-693-4688,Crawford,Galion,OH,Half-yearly,105706,No
+641096,Kerry,F,kerry.pitts@aol.com,5/4/1989,28.25,405-549-8600,Cleveland,Oklahoma City,OK,Half-yearly,179286,No
+856369,Dominick,M,dominick.robbins@hotmail.com,8/19/1979,37.97,262-482-5063,Sauk,Spring Green,WI,Half-yearly,123733,No
+318571,Emory,M,emory.spence@yahoo.com,5/4/1967,50.27,603-917-1365,Hillsborough,Milford,NH,Half-yearly,144834,No
+219020,Lana,F,lana.spence@aol.com,7/15/1967,50.07,803-932-0349,Beaufort,Beaufort,SC,Half-yearly,108199,No
+934285,Jeremy,M,jeremy.english@gmail.com,9/11/1972,44.91,210-801-4949,Howard,Big Spring,TX,Half-yearly,88094,No
+149763,Dudley,M,dudley.melton@aol.com,4/2/1991,26.34,201-678-5216,Essex,Essex Fells,NJ,Half-yearly,48438,No
+363951,Frances,F,frances.stafford@ntlworld.com,9/7/1965,51.92,252-491-7854,Pamlico,Merritt,NC,Half-yearly,177320,No
+306185,Percy,M,percy.hunt@btinternet.com,12/13/1970,46.65,210-274-8246,Hasse,Hasse,TX,Half-yearly,150940,No
+225090,Alfredo,M,alfredo.vasquez@bp.com,4/21/1973,44.3,803-918-4988,York,Clover,SC,Half-yearly,59287,No
+287114,Joanna,F,joanna.perkins@aol.com,8/10/1959,58.01,319-846-6922,Audubon,Audubon,IA,Half-yearly,196619,No
+811489,Susanna,F,susanna.huff@hotmail.com,7/9/1970,47.08,215-713-2665,Allegheny,Springdale,PA,Half-yearly,67505,No
+162573,Ola,F,ola.thompson@yahoo.com,8/28/1970,46.95,307-538-2638,Sheridan,Dayton,WY,Half-yearly,156203,Yes
+836699,Louella,F,louella.wolfe@charter.net,2/19/1966,51.47,480-650-3603,Phoenix,Phoenix,AZ,Half-yearly,96037,Yes
+798859,Deirdre,F,deirdre.travis@hotmail.com,4/11/1971,46.33,219-467-5690,Marion,Indianapolis,IN,Half-yearly,128752,Yes
+458765,Kristina,F,kristina.ware@gmail.com,6/26/1981,36.11,209-998-1930,Ventura,Moorpark,CA,Half-yearly,183956,Yes
+562109,Stacy,M,stacy.dixon@aol.com,5/27/1963,54.21,217-469-0283,Peoria,Peoria,IL,Half-yearly,108295,Yes
+947334,Frankie,M,frankie.clark@apple.com,11/19/1960,56.73,319-773-8175,Montgomery,Red Oak,IA,Half-yearly,175424,Yes
+316995,Pauline,F,pauline.gilbert@yahoo.com,7/5/1996,21.08,316-849-9526,Chautauqua,Niotaze,KS,Half-yearly,123599,Yes
+798671,Adolph,M,adolph.skinner@gmail.com,9/20/1964,52.89,252-584-4280,Durham,Durham,NC,Half-yearly,180393,Yes
+415004,Rosa,F,rosa.camacho@gmail.com,4/7/1995,22.32,262-735-0438,Outagamie,Appleton,WI,Half-yearly,56054,Yes
+770810,Craig,M,craig.marquez@gmail.com,6/16/1982,35.14,231-786-8588,Lenawee,Sand Creek,MI,Half-yearly,80934,Yes
+255640,Stanley,M,stanley.lowe@gmail.com,9/7/1986,30.91,304-323-8939,McDowell,Jolo,WV,Half-yearly,80699,Yes
+311079,Morgan,M,morgan.farrell@gmail.com,4/17/1989,28.3,206-732-0851,Grant,Hartline,WA,Half-yearly,48192,No
+559421,Reba,F,reba.potts@microsoft.com,4/2/1986,31.34,803-530-4861,Richland,Columbia,SC,Half-yearly,155351,Yes
+959306,Shana,F,shana.gould@gmail.com,7/20/1973,44.05,252-316-7224,Beaufort,Edward,NC,Half-yearly,74961,No
+713805,Adam,M,adam.bartlett@aol.com,9/25/1971,45.87,205-745-6937,Calhoun,Ohatchee,AL,Half-yearly,62876,Yes
+532285,Leann,F,leann.melendez@gmail.com,11/4/1973,43.76,236-331-5273,Prince William,Woodbridge,VA,Half-yearly,88889,No
+664249,Floyd,M,floyd.mills@gmail.com,8/29/1983,33.94,308-874-7810,Howard,Farwell,NE,Half-yearly,111583,Yes
+339483,Scott,M,scott.carrillo@sbcglobal.net,1/15/1970,47.56,319-913-8966,Floyd,Rockford,IA,Half-yearly,171304,No
+155956,Sterling,M,sterling.hooper@hotmail.com,9/19/1962,54.89,217-697-9027,Kankakee,Saint Anne,IL,Half-yearly,78732,Yes
+791119,Damon,M,damon.hunt@gmail.com,11/28/1978,38.69,304-994-3681,Pendleton,Onego,WV,Half-yearly,126670,Yes
+798553,Mauricio,M,mauricio.potts@yahoo.com,8/31/1986,30.93,339-660-2629,Essex,Lawrence,MA,Half-yearly,102183,Yes
+981925,Ebony,F,ebony.eaton@gmail.com,7/24/1964,53.05,212-680-4445,Otsego,Otego,NY,Half-yearly,87666,No
+648118,Bobbie,F,bobbie.joyner@gmail.com,4/20/1971,46.3,385-473-3065,Box Elder,Park Valley,UT,Half-yearly,65153,Yes
+278391,Jami,F,jami.velasquez@hotmail.com,7/23/1992,25.03,218-557-1655,Itasca,Max,MN,Half-yearly,40883,Yes
+556573,Aisha,F,aisha.gentry@aol.com,10/31/1965,51.78,212-970-9881,Cayuga,Montezuma,NY,Half-yearly,139115,Yes
+159472,Moses,M,moses.reid@apple.com,12/22/1964,52.63,239-593-3202,Orange,Orlando,FL,Half-yearly,198160,Yes
+871770,Monique,F,monique.deleon@hotmail.com,4/9/1990,27.32,216-250-6145,Morrow,Cardington,OH,Half-yearly,69805,Yes
+338556,Domingo,M,domingo.gibbs@hotmail.com,11/7/1988,28.74,480-908-8095,Mohave,Littlefield,AZ,Half-yearly,178530,Yes
+182719,Tammy,F,tammy.vincent@aol.com,7/13/1960,57.08,217-831-1569,Union,Dongola,IL,Half-yearly,111372,Yes
+305556,Federico,M,federico.wilson@yahoo.com,11/16/1974,42.73,210-930-2999,Castro,Hart,TX,Half-yearly,125802,Yes
+915507,Kory,M,kory.roth@bp.com,1/18/1974,43.55,252-364-6018,Harnett,Buies Creek,NC,Half-yearly,153636,Yes
+761381,Nichole,F,nichole.lloyd@shell.com,4/23/1986,31.28,316-344-7236,Sedgwick,Wichita,KS,Half-yearly,46766,Yes
+141022,Rodger,M,rodger.chavez@outlook.com,7/10/1981,36.07,209-881-4520,Sacramento,Sacramento,CA,Half-yearly,187480,Yes
+528086,Bruce,M,bruce.carney@hotmail.com,2/9/1974,43.49,231-344-7782,Wayne,Detroit,MI,Half-yearly,95018,Yes
+177821,Derick,M,derick.ferrell@yahoo.co.in,2/7/1975,42.5,215-650-2255,Mifflin,Mc Veytown,PA,Half-yearly,173372,Yes
+740281,Lorna,F,lorna.henson@outlook.com,6/9/1989,28.15,215-781-4273,Lackawanna,Scranton,PA,Half-yearly,85410,Yes
+906797,Rico,M,rico.mayo@gmail.com,6/10/1991,26.15,216-519-9558,Tuscarawas,Mineral City,OH,Half-yearly,137995,Yes
+790008,Luann,F,luann.crane@gmail.com,3/26/1977,40.37,212-213-3997,Oswego,Phoenix,NY,Half-yearly,84136,Yes
+825433,Tara,F,tara.goodwin@shaw.ca,7/23/1968,49.05,215-869-6924,Chester,Glenmoore,PA,Half-yearly,84023,Yes
+941759,Shaun,M,shaun.evans@gmail.com,4/2/1969,48.35,314-659-6901,Jackson,Kansas City,MO,Half-yearly,119430,Yes
+313864,Debbie,F,debbie.velez@aol.com,4/13/1963,54.33,303-865-0002,Arapahoe,Littleton,CO,Half-yearly,138006,Yes
+978745,May,F,may.hodge@hotmail.com,1/22/1975,42.54,314-442-0589,Franklin,Leslie,MO,Half-yearly,137894,Yes
+807182,Adeline,F,adeline.evans@cox.net,8/13/1988,28.98,217-205-4597,Hancock,Niota,IL,Half-yearly,121383,Yes
+463743,Guy,M,guy.gilbert@gmail.com,9/18/1960,56.9,303-645-5316,Douglas,Castle Rock,CO,Half-yearly,91453,No
+901775,Opal,F,opal.hansen@hotmail.com,11/1/1977,39.76,802-968-1672,Caledonia,South Ryegate,VT,Half-yearly,169631,Yes
+197867,Robbie,F,robbie.oconnor@bellsouth.net,2/8/1993,24.48,228-458-9001,Jackson,Pascagoula,MS,Half-yearly,79934,Yes
+423470,Ella,F,ella.craft@aol.com,2/18/1992,25.46,215-668-2344,Westmoreland,Norvelt,PA,Half-yearly,64521,No
+238361,Derrick,M,derrick.vaughn@ibm.com,4/16/1965,52.32,319-530-2214,Winneshiek,Ossian,IA,Half-yearly,194264,Yes
+596366,Maura,F,maura.cherry@earthlink.net,5/3/1970,47.27,252-599-2888,Hyde,Fairfield,NC,Half-yearly,104520,No
+725424,Roderick,M,roderick.vinson@hotmail.com,3/3/1994,23.42,307-616-3182,Carbon,Encampment,WY,Half-yearly,65304,Yes
+229037,Gwen,F,gwen.gilliam@aol.com,1/13/1995,22.55,216-992-9734,Clermont,Marathon,OH,Half-yearly,138294,No
+434723,Melanie,F,melanie.zimmerman@aol.com,6/9/1970,47.17,209-629-2789,Los Angeles,La Puente,CA,Half-yearly,83300,Yes
+501422,Micah,M,micah.merritt@rediffmail.com,10/25/1983,33.78,209-857-4471,San Joaquin,Lyoth,CA,Half-yearly,146356,Yes
+638943,Buford,M,buford.hobbs@msn.com,10/3/1975,41.85,479-893-9574,Clay,Success,AR,Half-yearly,52960,Yes
+935745,Kyle,M,kyle.farmer@gmail.com,11/20/1974,42.72,314-838-8839,Callaway,Tebbetts,MO,Half-yearly,195833,Yes
+750581,Jocelyn,F,jocelyn.rojas@earthlink.net,2/4/1969,48.51,239-885-4736,Brevard,Merritt Island,FL,Half-yearly,49158,Yes
+468128,Larry,M,larry.gray@outlook.com,9/14/1993,23.88,210-262-9740,San Augustine,San Augustine,TX,Half-yearly,193352,Yes
+884877,Wilbur,M,wilbur.bates@verizon.net,7/27/1989,28.02,212-993-7125,Columbia,West Copake,NY,Half-yearly,118264,Yes
+870904,Maxine,F,maxine.moran@gmail.com,4/27/1968,49.28,212-589-4230,Franklin,Hogansburg,NY,Half-yearly,61056,Yes
+926224,Kathleen,F,kathleen.middleton@yahoo.com,3/5/1979,38.42,270-462-8251,Pulaski,Somerset,KY,Half-yearly,150091,Yes
+220061,Norbert,M,norbert.joyner@gmail.com,4/18/1966,51.31,308-463-4519,Colfax,Schuyler,NE,Half-yearly,40749,Yes
+125823,Chadwick,M,chadwick.walton@earthlink.net,2/17/1966,51.48,215-345-7279,Luzerne,Lattimer Mines,PA,Half-yearly,165482,Yes
+768943,Connie,F,connie.shaffer@walmart.com,8/10/1973,43.99,239-957-2975,Seminole,Casselberry,FL,Half-yearly,71160,Yes
+591698,Bobbie,F,bobbie.singleton@yahoo.com,1/31/1985,32.51,212-653-6029,Queens,Jamaica,NY,Half-yearly,184505,Yes
+700418,Lesley,F,lesley.rollins@aol.com,3/2/1995,22.42,209-231-7124,Riverside,Nuevo,CA,Half-yearly,103327,Yes
+476635,Victoria,F,victoria.howe@gmail.com,2/9/1968,49.5,216-303-3981,Lucas,Toledo,OH,Half-yearly,160288,Yes
+785299,Marc,M,marc.nixon@gmail.com,2/20/1970,47.47,215-276-4646,Forest,East Hickory,PA,Half-yearly,59123,Yes
+225139,Elias,M,elias.pena@hotmail.com,3/18/1996,21.38,270-272-3267,Letcher,Mayking,KY,Half-yearly,183466,Yes
+308125,Flossie,F,flossie.mcpherson@gmail.com,11/18/1969,47.72,208-965-8377,Lewis,Nezperce,ID,Half-yearly,97890,Yes
+129426,Lana,F,lana.hayes@hotmail.com,12/17/1975,41.64,316-644-3677,Johnson,Shawnee Mission,KS,Half-yearly,82263,Yes
+399192,Nick,M,nick.wilcox@bellsouth.net,11/18/1976,40.72,217-505-1313,DuPage,Glen Ellyn,IL,Half-yearly,136207,Yes
+555551,Nona,F,nona.buck@outlook.com,6/9/1988,29.15,210-661-7658,Ector,Odessa,TX,Half-yearly,143194,Yes
+245059,Abdul,M,abdul.barnett@hotmail.com,3/26/1985,32.36,236-885-1600,Fairfax,Alexandria,VA,Half-yearly,165777,Yes
+423008,Inez,F,inez.kane@ntlworld.com,5/12/1985,32.23,209-572-5312,Los Angeles,Sierra Madre,CA,Half-yearly,77392,No
+316407,Raquel,F,raquel.bray@hotmail.co.uk,12/9/1993,23.65,212-329-7544,Orange,Pine Island,NY,Half-yearly,74449,No
+410027,Sean,M,sean.noble@cox.net,8/17/1962,54.98,209-586-9398,Riverside,Corona,CA,Half-yearly,117566,No
+307715,Fred,M,fred.woodward@hotmail.com,12/23/1970,46.63,209-240-2610,Riverside,North Palm Springs,CA,Single,115356,Yes
+690117,Sylvester,M,sylvester.salas@outlook.com,9/25/1987,29.86,239-817-0332,Sarasota,Sarasota,FL,Single,170570,Yes
+149844,Berta,F,berta.irwin@gmail.com,1/12/1983,34.56,212-758-0414,Suffolk,Holbrook,NY,Single,169176,Yes
+116530,Noelle,F,noelle.paul@yahoo.com,2/1/1964,53.52,605-838-1184,Crocker,Crocker,SD,Single,190616,No
+234429,Chrystal,F,chrystal.swanson@aol.com,2/25/1984,33.44,215-902-9729,Montgomery,Norristown,PA,Single,144528,No
+437970,Reggie,M,reggie.nolan@gmail.com,9/17/1989,27.88,319-430-2681,Dallas,Woodward,IA,Single,178094,No
+766745,Joanne,F,joanne.melton@verizon.net,12/19/1964,52.64,216-426-9488,Hamilton,Cincinnati,OH,Single,61487,No
+684446,Bryon,M,bryon.gardner@aol.com,2/23/1985,32.45,209-532-8208,Shasta,Platina,CA,Single,169032,No
+385932,Noreen,F,noreen.vincent@yahoo.com,9/15/1994,22.88,270-268-3778,Knott,Fisty,KY,Single,163224,No
+862150,Mathew,M,mathew.duran@aol.com,9/6/1993,23.91,302-891-8805,Sussex,Millville,DE,Single,140169,No
+635915,Herminia,F,herminia.morin@yahoo.com,2/24/1961,56.46,252-295-6841,Rockingham,Reidsville,NC,Half-yearly,160770,No
+540696,Luke,M,luke.craft@apple.com,8/25/1984,32.95,270-381-3548,Breckinridge,Harned,KY,Half-yearly,114661,No
+870351,Ronny,M,ronny.long@microsoft.com,12/10/1982,34.65,319-680-3248,Winnebago,Thompson,IA,Half-yearly,115908,No
+360498,Jeannine,F,jeannine.vaughn@aol.com,4/9/1978,39.33,207-276-8057,Somerset,Bingham,ME,Half-yearly,153407,No
+397164,Silvia,F,silvia.huff@gmail.com,2/12/1974,43.48,210-570-5638,Tarrant,Fort Worth,TX,Half-yearly,67189,No
+488068,Margo,F,margo.hoffman@gmail.com,5/14/1985,32.23,207-512-9091,Aroostook,Crouseville,ME,Half-yearly,117004,No
+890432,Kimberly,F,kimberly.summers@msn.com,12/31/1958,58.61,270-484-2113,Carter,Carter,KY,Half-yearly,184073,No
+935890,Jodie,F,jodie.mckinney@bp.com,10/16/1995,21.8,423-906-6653,Dyer,Miston,TN,Half-yearly,83325,No
+541867,Lorrie,F,lorrie.leblanc@gmail.com,1/12/1968,49.58,209-971-3069,San Bernardino,San Bernardino,CA,Half-yearly,74192,No
+885774,Miles,M,miles.giles@yahoo.com,8/3/1976,41.01,219-201-2782,Marion,Indianapolis,IN,Half-yearly,105720,No
+979649,Jamar,M,jamar.castaneda@yahoo.com,5/11/1982,35.24,302-432-3433,New Castle,Wilmington,DE,Half-yearly,68745,Yes
+599012,Amber,F,amber.warner@hotmail.com,11/19/1957,59.73,229-317-6542,McIntosh,Darien,GA,Half-yearly,116847,Yes
+204626,Sterling,M,sterling.patel@aol.com,2/15/1966,51.48,206-767-7661,King,Burton,WA,Half-yearly,151009,Yes
+830006,Enid,F,enid.pearson@cox.net,7/28/1972,45.03,201-401-9033,Ocean,Brick,NJ,Half-yearly,183123,Yes
+127205,Annmarie,F,annmarie.frye@charter.net,6/4/1986,31.17,219-931-4746,Monroe,Smithville,IN,Half-yearly,72981,Yes
+215589,Molly,F,molly.roach@gmail.com,10/21/1966,50.8,262-674-8386,Fond du Lac,Fairwater,WI,Half-yearly,74803,Yes
+621606,Rogelio,M,rogelio.poole@exxonmobil.com,3/31/1992,25.34,405-479-3205,Dewey,Vici,OK,Half-yearly,85147,Yes
+223379,Mathew,M,mathew.duke@rediffmail.com,1/17/1993,24.54,316-687-4762,Marion,Ramona,KS,Half-yearly,196685,Yes
+236366,Lewis,M,lewis.ayala@gmail.com,11/29/1992,24.68,252-216-6091,Davidson,Lexington,NC,Half-yearly,144369,Yes
+798043,Claudette,F,claudette.walter@outlook.com,2/17/1984,33.47,212-366-5351,Albany,Albany,NY,Half-yearly,44430,Yes
+811092,Tracie,F,tracie.delaney@hotmail.com,5/31/1973,44.19,239-752-5987,The Villages,The Villages,FL,Half-yearly,144899,Yes
+288820,Eric,M,eric.mccullough@gmail.com,10/17/1965,51.81,216-663-9379,Allen,Lafayette,OH,Half-yearly,151530,Yes
+138351,Nestor,M,nestor.carney@gmail.com,6/5/1975,42.18,314-545-0008,Benton,Warsaw,MO,Half-yearly,77526,Yes
+130501,Mitzi,F,mitzi.mueller@hotmail.com,3/3/1967,50.44,302-207-3101,New Castle,Rockland,DE,Half-yearly,91870,Yes
+587373,Lillian,F,lillian.atkinson@aol.com,2/25/1993,24.44,209-957-4797,Butte,Clipper Mills,CA,Half-yearly,181837,Yes
+750124,Barry,M,barry.garner@gmail.com,12/21/1979,37.63,479-955-4801,Hot Spring,Donaldson,AR,Half-yearly,182944,Yes
+495105,Coleen,F,coleen.morris@gmail.com,11/16/1995,21.71,215-600-1535,Delaware,Holmes,PA,Half-yearly,76605,Yes
+282678,Marci,F,marci.alvarado@gmail.com,5/31/1966,51.19,803-237-9797,York,Bowling Green,SC,Half-yearly,174673,Yes
+241302,Monty,M,monty.lancaster@walmart.com,3/18/1960,57.4,236-489-0926,Southampton,Sedley,VA,Half-yearly,53313,Yes
+790290,Norris,M,norris.adams@yahoo.com,10/21/1993,23.78,215-214-5440,Beaver,Georgetown,PA,Half-yearly,88865,Yes
+924304,Elvira,F,elvira.byrd@gmail.com,2/7/1990,27.49,270-690-8211,Jefferson,Louisville,KY,Half-yearly,77787,Yes
+234880,Keven,M,keven.logan@gmail.com,2/11/1989,28.48,215-821-6108,Montgomery,Philadelphia,PA,Half-yearly,94291,Yes
+443072,Rosendo,M,rosendo.rasmussen@earthlink.net,10/26/1978,38.78,209-570-8160,Ripley,Ripley,CA,Half-yearly,84964,Yes
+232070,Carly,F,carly.leach@cox.net,1/3/1971,46.6,231-419-8211,Oakland,Oakland,MI,Half-yearly,182390,Yes
+902132,Colleen,F,colleen.bray@hotmail.com,4/7/1982,35.33,239-748-0076,Duval,Jacksonville,FL,Half-yearly,71784,Yes
+280781,Ollie,F,ollie.william@verizon.net,10/19/1979,37.8,210-447-5194,Karnes,Gillett,TX,Half-yearly,128589,Yes
+589440,Hilario,M,hilario.vang@gmail.com,6/6/1978,39.17,212-345-2791,Suffolk,Ridge,NY,Half-yearly,133205,Yes
+940754,Nadine,F,nadine.blanchard@exxonmobil.com,3/14/1978,39.4,209-571-2529,Tehama,Los Molinos,CA,Half-yearly,104269,Yes
+888277,Wm,M,wm.carroll@gmail.com,5/16/1987,30.22,212-333-9668,Orange,Unionville,NY,Half-yearly,146342,Yes
+430202,Minnie,F,minnie.mckee@gmail.com,8/26/1995,21.94,216-831-2721,Fulton,Swanton,OH,Half-yearly,104332,Yes
+928723,Angela,F,angela.compton@gmail.com,1/21/1967,50.55,802-785-3606,Rutland,Middletown Springs,VT,Half-yearly,127733,Yes
+449164,Lillian,F,lillian.gill@gmail.com,7/28/1970,47.03,505-396-0307,Socorro,Claunch,NM,Half-yearly,75411,Yes
+117603,Bob,M,bob.weiss@hotmail.com,10/26/1991,25.77,212-927-2029,Erie,North Collins,NY,Half-yearly,88733,Yes
+811884,Edwin,M,edwin.perez@gmail.com,2/27/1992,25.43,262-268-3289,Marinette,Crivitz,WI,Half-yearly,109695,Yes
+463579,Bernardo,M,bernardo.langley@hotmail.com,10/21/1972,44.8,229-818-8713,Fulton,Atlanta,GA,Half-yearly,174027,Yes
+915993,William,M,william.morrison@gmail.com,3/30/1967,50.36,405-559-1017,Blaine,Longdale,OK,Half-yearly,109382,Yes
+836259,Vance,M,vance.osborne@shaw.ca,11/9/1972,44.75,503-546-8875,Polk,Independence,OR,Half-yearly,148267,Yes
+520719,Edmund,M,edmund.salas@aol.com,7/8/1959,58.1,217-682-7457,Montgomery,Hillsboro,IL,Half-yearly,126758,Yes
+409341,Imogene,F,imogene.sanders@yahoo.com,6/3/1985,32.17,319-714-7958,Keokuk,Hayesville,IA,Half-yearly,55845,Yes
+528576,Darin,M,darin.callahan@gmail.com,10/27/1992,24.77,406-263-9628,Powell,Avon,MT,Half-yearly,64901,Yes
+315565,Loretta,F,loretta.sawyer@hotmail.com,1/23/1996,21.53,270-277-4308,Marion,Nerinx,KY,Half-yearly,78780,Yes
+242740,Olive,F,olive.livingston@charter.net,2/9/1981,36.49,314-500-3453,Jasper,Alba,MO,Half-yearly,184008,Yes
+763459,Gino,M,gino.mcconnell@aol.com,10/8/1975,41.83,803-885-7673,Jasper,Coosawatchie,SC,Half-yearly,57731,Yes
+239010,Fred,M,fred.hayes@yahoo.com,12/17/1979,37.64,228-610-8759,Pleasant Grove,Pleasant Grove,MS,Half-yearly,58345,Yes
+865905,Nelson,M,nelson.wilkins@earthlink.net,12/12/1961,55.66,479-735-4213,Sebastian,Fort Smith,AR,Half-yearly,141143,Yes
+657908,Joyce,F,joyce.hooper@hotmail.com,2/21/1980,37.46,270-280-4283,Calloway,Murray,KY,Half-yearly,68835,Yes
+652723,Juliana,F,juliana.rowland@aol.com,4/7/1993,24.32,314-819-1491,St. Louis,Saint Louis,MO,Half-yearly,67506,Yes
+944699,Norris,M,norris.mack@yahoo.co.in,9/18/1983,33.88,339-617-2666,Franklin,Erving,MA,Half-yearly,116248,Yes
+517283,Tom,M,tom.frye@gmail.com,4/9/1976,41.33,225-574-3475,Beauregard,Deridder,LA,Half-yearly,65753,Yes
+176214,Josephine,F,josephine.pitts@hotmail.com,12/29/1972,44.61,216-702-5455,Franklin,Reynoldsburg,OH,Half-yearly,40040,Yes
+680485,Les,M,les.brady@gmail.com,7/6/1990,27.08,206-830-5542,Tacoma,Tacoma,WA,Half-yearly,158773,Yes
+891142,Jaime,M,jaime.avery@aol.com,3/7/1967,50.43,701-430-8105,LaMoure,Verona,ND,Half-yearly,187800,Yes
+810984,Marissa,F,marissa.caldwell@aol.com,10/3/1979,37.84,229-266-9475,Fulton,Atlanta,GA,Half-yearly,135046,Yes
+896022,Lavern,M,lavern.gardner@aol.com,10/19/1971,45.81,219-973-4977,Wayne,Richmond,IN,Half-yearly,140328,Yes
+162773,Evangeline,F,evangeline.mejia@gmail.com,9/6/1959,57.93,385-955-8462,Iron,Cedar City,UT,Half-yearly,93417,Yes
+408036,Brandy,F,brandy.carr@btinternet.com,11/21/1976,40.71,701-618-4337,McKenzie,Watford City,ND,Half-yearly,197345,Yes
+591248,Molly,F,molly.manning@hotmail.com,6/11/1962,55.17,316-214-2098,Russell Springs,Russell Springs,KS,Half-yearly,65981,Yes
+562393,Gale,M,gale.perez@rediffmail.com,12/2/1964,52.69,701-825-3358,Dunn,Killdeer,ND,Half-yearly,188811,Yes
+808843,Merlin,M,merlin.yates@yahoo.co.uk,1/1/1991,26.59,215-757-1383,York,Fawn Grove,PA,Half-yearly,144104,Yes
+645393,Nelson,M,nelson.mooney@yahoo.com,6/2/1967,50.19,314-674-3119,Moniteau,California,MO,Half-yearly,136885,Yes
+685818,Jackson,M,jackson.bass@gmail.com,3/14/1983,34.4,228-942-3725,Hinds,Jackson,MS,Half-yearly,172555,Yes
+747647,Trisha,F,trisha.mueller@bp.com,6/13/1975,42.15,212-514-3604,Columbia,Niverville,NY,Half-yearly,133504,Yes
+846178,Lilia,F,lilia.collins@yahoo.com,6/7/1980,37.16,209-724-7936,Monterey,Aromas,CA,Half-yearly,196782,Yes
+754091,Kimberly,F,kimberly.cantu@yahoo.com,10/7/1976,40.83,308-517-8706,Adams,Kenesaw,NE,Half-yearly,198580,Yes
+808727,Luciano,M,luciano.jordan@aol.com,4/23/1994,23.28,212-601-9238,Livingston,Geneseo,NY,Half-yearly,168292,Yes
+143029,Danny,M,danny.robbins@hotmail.com,9/27/1963,53.87,219-323-1225,Wells,Bluffton,IN,Half-yearly,123832,Yes
+923271,Wilfredo,M,wilfredo.richards@gmail.com,12/13/1960,56.66,218-269-4257,Morrison,Randall,MN,Half-yearly,173178,Yes
+621988,Callie,F,callie.snider@yahoo.com,12/18/1989,27.63,505-793-7860,Mora,Ocate,NM,Half-yearly,147243,Yes
+240842,Rachelle,F,rachelle.reed@yahoo.co.uk,11/27/1977,39.69,210-267-6023,El Paso,El Paso,TX,Half-yearly,88748,Yes
+517038,Bobbi,F,bobbi.olson@hotmail.com,11/3/1963,53.77,319-758-4226,Benton,Keystone,IA,Half-yearly,143127,Yes
+456842,Kris,F,kris.richards@aol.com,2/24/1966,51.46,314-830-8975,Johnson,Leeton,MO,Half-yearly,173303,Yes
+276700,Marissa,F,marissa.meyer@rediffmail.com,7/13/1958,59.08,701-369-9836,Cass,Davenport,ND,Single,172845,Yes
+510431,Jamar,M,jamar.reese@hotmail.co.uk,6/13/1965,52.16,405-738-3960,Beckham,Texola,OK,Single,134013,Yes
+451543,Nelda,F,nelda.webster@gmail.com,1/16/1986,31.55,229-950-3117,Muscogee,Columbus,GA,Single,161123,Yes
+423508,Carolina,F,carolina.bruce@aol.com,10/6/1971,45.84,201-569-3227,Essex,Newark,NJ,Single,177947,Yes
+399486,Terri,F,terri.phelps@microsoft.com,11/23/1975,41.71,231-941-6394,Houghton,Copper City,MI,Single,183013,Yes
+295933,Nestor,M,nestor.rosales@aol.com,4/5/1979,38.34,423-342-5433,Montgomery,Clarksville,TN,Single,71204,Yes
+855670,Adrian,F,adrian.robles@gmail.com,6/8/1958,59.18,212-956-0905,Sullivan,Glen Spey,NY,Single,166464,Yes
+151449,Kyle,M,kyle.rios@yahoo.co.uk,2/9/1993,24.48,303-875-0643,Jefferson,Pine,CO,Half-yearly,111183,Yes
+394700,Domingo,M,domingo.wilkinson@outlook.com,1/21/1985,32.54,262-227-1790,Milwaukee,Milwaukee,WI,Half-yearly,95530,Yes
+328740,Leonardo,M,leonardo.bird@bp.com,1/24/1974,43.54,228-228-5325,Noxubee,Macon,MS,Half-yearly,116972,Yes
+924134,Hubert,M,hubert.zimmerman@gmail.com,3/22/1980,37.38,270-258-3097,Boyd,Rush,KY,Half-yearly,79197,Yes
+556518,Kory,M,kory.frank@yahoo.co.in,8/29/1987,29.93,205-760-7355,Jefferson,Leeds,AL,Half-yearly,102865,Yes
+237003,Tami,F,tami.hayes@gmail.com,12/18/1992,24.62,307-371-2781,Sheridan,Dayton,WY,Half-yearly,170836,Yes
+518193,Amanda,F,amanda.carr@gmail.com,5/27/1973,44.2,210-872-1018,Nueces,Agua Dulce,TX,Half-yearly,100000,Yes
+540019,Stephen,M,stephen.bauer@sbcglobal.net,6/13/1990,27.14,201-262-7702,Hudson,Jersey City,NJ,Single,183279,Yes
+489463,Johnie,M,johnie.carney@yahoo.com,6/7/1991,26.16,236-562-1999,Greene,Stanardsville,VA,Single,151127,Yes
+763039,Rebekah,F,rebekah.hull@earthlink.net,1/25/1973,44.53,303-243-8627,Larimer,Glen Haven,CO,Single,104526,Yes
+854365,Kelly,F,kelly.spence@yahoo.co.uk,3/12/1972,45.41,210-574-2395,Ector,Penwell,TX,Single,103499,Yes
+233110,Tracie,F,tracie.estes@hotmail.com,5/11/1982,35.24,201-900-5228,Hudson,North Bergen,NJ,Single,159071,Yes
+416483,Bennett,M,bennett.le@gmail.com,8/8/1982,34.99,252-545-5705,Forsyth,Winston Salem,NC,Single,144885,Yes
+629763,Vernon,M,vernon.bass@aol.com,10/6/1962,54.85,215-737-1085,Susquehanna,Hallstead,PA,Single,79853,Yes
+755278,Theron,M,theron.sweet@gmail.com,3/15/1995,22.39,209-659-1839,Orange,Orange,CA,Half-yearly,187715,Yes
+471560,Ernie,M,ernie.holden@yahoo.com,11/28/1983,33.69,316-629-8682,Marion,Durham,KS,Half-yearly,75839,Yes
+988676,Shawn,M,shawn.rasmussen@gmail.com,12/4/1978,38.67,218-496-2108,Manhattan Beach,Manhattan Beach,MN,Half-yearly,86337,Yes
+606109,Enrique,M,enrique.adams@rediffmail.com,12/14/1965,51.65,405-571-4413,Caddo,Binger,OK,Half-yearly,100224,Yes
+414129,Ernie,M,ernie.aguilar@aol.com,8/8/1960,57.01,210-379-4233,Lipscomb,Higgins,TX,Half-yearly,152421,Yes
+286890,Carolyn,F,carolyn.donaldson@gmail.com,4/29/1960,57.28,231-530-3573,Alger,Eben Junction,MI,Half-yearly,144259,Yes
+944811,Margie,F,margie.deleon@sbcglobal.net,4/13/1979,38.32,262-328-7339,Ozaukee,Port Washington,WI,Half-yearly,193461,Yes
+975770,Keven,M,keven.collins@gmail.com,7/12/1972,45.07,479-891-5368,Pope,Atkins,AR,Half-yearly,161705,Yes
+590955,Bruce,M,bruce.colon@microsoft.com,5/2/1972,45.27,231-408-6959,Monroe,Ida,MI,Half-yearly,139425,Yes
+565658,Kristen,F,kristen.lott@msn.com,7/6/1989,28.08,229-410-7907,Cobb,Smyrna,GA,Half-yearly,188910,Yes
+569664,Howard,M,howard.dodson@gmail.com,2/25/1983,34.44,225-278-0032,Rapides,Elmer,LA,Half-yearly,82516,Yes
+939970,Merle,M,merle.britt@aol.com,11/14/1977,39.73,218-565-3209,Hennepin,Maple Plain,MN,Half-yearly,145515,Yes
+848744,Hector,M,hector.bradley@yahoo.com,10/9/1988,28.82,215-446-9901,Northampton,Easton,PA,Half-yearly,155065,Yes
+452230,Darnell,M,darnell.spencer@aol.com,9/13/1969,47.9,212-201-2194,New York,New York City,NY,Half-yearly,120778,No
+930129,Janelle,F,janelle.william@hotmail.com,2/23/1971,46.46,907-713-8781,North Slope,Atqasuk,AK,Single,70544,No
+909139,Eula,F,eula.atkinson@hotmail.com,5/6/1963,54.27,270-896-2990,Perry,Slemp,KY,Single,70531,No
+678436,Theresa,F,theresa.bender@gmail.com,2/27/1959,58.45,406-354-1359,Powder River,Sonnette,MT,Single,112711,No
+196011,Kimberley,F,kimberley.jacobson@gmail.com,10/1/1989,27.84,314-694-4397,Clay,Excelsior Springs,MO,Single,129756,No
+666886,Angelita,F,angelita.reyes@shaw.ca,6/16/1963,54.15,231-348-5787,Oakland,West Bloomfield,MI,Single,117868,No
+572348,Selma,F,selma.floyd@hotmail.com,9/30/1993,23.84,201-890-6290,Hudson,Union City,NJ,Single,65787,No
+846144,Edna,F,edna.paul@yahoo.com,1/8/1960,57.59,202-884-0157,District of Columbia,Washington,DC,Half-yearly,75261,No
+665326,Dewayne,M,dewayne.sheppard@gmail.com,11/12/1958,58.75,314-751-4025,Clay,Kansas City,MO,Half-yearly,117143,No
+119399,Gale,M,gale.rodriquez@ibm.com,5/25/1961,56.21,218-967-8338,Faribault,Easton,MN,Half-yearly,90590,No
+744539,Cora,F,cora.blackburn@gmail.com,12/24/1963,53.63,303-881-1240,El Paso,Colorado Springs,CO,Half-yearly,62973,No
+518154,Annmarie,F,annmarie.roth@outlook.com,10/16/1980,36.81,212-963-4986,Bronx,Bronx,NY,Half-yearly,57649,No
+416872,Owen,M,owen.lopez@hotmail.co.uk,11/10/1976,40.74,314-473-4852,Jasper,Joplin,MO,Half-yearly,128144,No
+339806,Chrystal,F,chrystal.pittman@gmail.com,11/20/1966,50.72,212-255-0536,Jefferson,Wellesley Island,NY,Half-yearly,63095,No
+991522,Thurman,M,thurman.daniel@gmail.com,4/14/1969,48.32,319-660-0064,Louisa,Oakville,IA,Half-yearly,168935,No
+830373,Darnell,M,darnell.hoffman@rediffmail.com,4/17/1982,35.3,406-889-6201,Flathead,Somers,MT,Single,189337,No
+987377,Raymundo,M,raymundo.sims@aol.com,11/27/1963,53.7,218-865-5355,Mower,Sargeant,MN,Single,184370,No
+551251,Frederick,M,frederick.graham@aol.com,12/22/1962,54.64,262-925-8981,Manitowoc,Tisch Mills,WI,Single,180550,No
+143864,Natalie,F,natalie.marshall@outlook.com,12/24/1973,43.62,202-347-7490,Washington,Washington,DC,Single,118172,No
+679990,Thad,M,thad.franklin@charter.net,2/24/1994,23.44,423-587-6653,Putnam,Baxter,TN,Single,116818,No
+851939,Belinda,F,belinda.trujillo@btinternet.com,10/19/1991,25.79,319-756-6511,Jasper,Killduff,IA,Single,156339,No
+272885,Rosanna,F,rosanna.chase@yahoo.com,4/12/1972,45.32,406-613-2777,Lewis and Clark,Wolf Creek,MT,Half-yearly,81401,No
+588553,Wilda,F,wilda.rios@yahoo.com,11/4/1986,30.75,207-782-0745,Cumberland,Sebago,ME,Half-yearly,45345,No
+739367,Alyssa,F,alyssa.marquez@gmail.com,5/26/1978,39.2,236-605-1693,Smyth,Saltville,VA,Half-yearly,46119,No
+271247,Liz,F,liz.barry@gmail.com,9/2/1991,25.92,209-903-1796,Los Angeles,Los Angeles,CA,Half-yearly,155974,No
+778200,Mariano,M,mariano.lloyd@aol.com,8/2/1959,58.03,304-979-3524,Randolph,Ellamore,WV,Half-yearly,119877,No
+338449,Forest,M,forest.moss@yahoo.com,8/29/1963,53.95,701-635-9553,Cass,Fargo,ND,Half-yearly,177768,Yes
+581042,Gino,M,gino.sullivan@exxonmobil.com,11/20/1965,51.72,236-716-9172,Albemarle,Earlysville,VA,Half-yearly,65297,Yes
+138800,Jarred,M,jarred.bernard@hotmail.com,5/1/1968,49.27,205-585-7186,Winston,Natural Bridge,AL,Half-yearly,169107,Yes
+553362,Preston,M,preston.floyd@bellsouth.net,3/21/1968,49.39,314-653-6714,New Madrid,Gideon,MO,Half-yearly,68488,Yes
+435055,Clinton,M,clinton.farley@sbcglobal.net,8/19/1982,34.96,231-961-6736,Oakland,Ortonville,MI,Half-yearly,87911,Yes
+469392,Dana,F,dana.hill@gmail.com,11/5/1958,58.77,907-394-7955,Aleutians East,Sand Point,AK,Half-yearly,146938,Yes
+161467,Odell,M,odell.bryan@yahoo.co.in,10/20/1980,36.79,262-231-1161,Kenosha,Twin Lakes,WI,Half-yearly,47971,Yes
+755543,Tameka,F,tameka.atkinson@hotmail.com,8/30/1983,33.93,240-525-4695,Baltimore,Glyndon,MD,Half-yearly,100525,Yes
+129077,Dominique,M,dominique.moreno@aol.com,1/8/1991,26.57,385-619-6792,Millard,Lynndyl,UT,Half-yearly,65901,No
+707856,Abraham,M,abraham.mayo@ibm.com,5/3/1989,28.25,270-635-8933,Perry,Krypton,KY,Half-yearly,190663,No
+817818,Augustus,M,augustus.hines@yahoo.com,11/27/1966,50.7,206-591-3506,Yakima,Yakima,WA,Half-yearly,183713,No
+226811,Rene,M,rene.burks@rediffmail.com,1/1/1992,25.59,270-263-6464,Oldham,Buckner,KY,Half-yearly,52560,No
+283199,Christian,M,christian.acevedo@outlook.com,7/21/1980,37.04,216-560-2480,Stark,Canton,OH,Half-yearly,132022,No
+319493,Major,M,major.lucas@gmail.com,11/9/1982,34.74,803-342-2604,Williamsburg,Salters,SC,Half-yearly,105620,No
+205347,Frieda,F,frieda.hebert@ntlworld.com,8/23/1957,59.97,215-341-4420,Lehigh,Allentown,PA,Half-yearly,138878,No
+508019,Rachael,F,rachael.newman@gmail.com,6/12/1960,57.16,205-630-4701,Winston,Houston,AL,Half-yearly,166948,No
+774862,Bernadine,F,bernadine.joseph@gmail.com,12/1/1967,49.69,270-399-4566,Fayette,Lexington,KY,Half-yearly,49212,No
+394200,Deanna,F,deanna.mccoy@yahoo.com,9/8/1972,44.92,262-864-7136,Milwaukee,Milwaukee,WI,Half-yearly,92993,No
+887692,Joseph,M,joseph.tucker@bp.com,10/3/1979,37.84,423-702-7689,Benton,Camden,TN,Half-yearly,199923,Yes
+408248,Antwan,M,antwan.richardson@hotmail.com,9/29/1973,43.86,209-406-6320,San Bernardino,San Bernardino,CA,Half-yearly,114321,Yes
+787931,Harrison,M,harrison.ortega@exxonmobil.com,4/13/1975,42.32,314-369-3092,Jackson,Kansas City,MO,Half-yearly,175569,Yes
+547050,Dylan,M,dylan.cantu@aol.com,7/1/1963,54.11,202-492-5695,District Of Columbia,Washington Navy Yard,DC,Half-yearly,168495,Yes
+964084,Winston,M,winston.hewitt@bp.com,4/11/1958,59.34,225-919-9605,Assumption,Napoleonville,LA,Half-yearly,89708,Yes
+574256,Serena,F,serena.marshall@yahoo.com,11/1/1980,36.76,240-890-0735,Anne Arundel,Curtis Bay,MD,Half-yearly,136097,Yes
+215473,Maryann,F,maryann.vance@sbcglobal.net,11/2/1971,45.77,228-827-0595,Newton,Chunky,MS,Half-yearly,116843,Yes
+932175,Roxie,F,roxie.mckay@gmail.com,10/14/1989,27.81,216-940-3945,Jefferson,Piney Fork,OH,Half-yearly,44868,Yes
+472119,Sonny,M,sonny.morin@gmail.com,11/19/1969,47.72,216-364-8955,Hamilton,Cincinnati,OH,Half-yearly,120002,Yes
+282137,Eduardo,M,eduardo.burnett@gmail.com,3/30/1970,47.36,262-498-0317,Oneida,Pelican Lake,WI,Half-yearly,146973,Yes
+395867,Marietta,F,marietta.watson@gmail.com,3/25/1971,46.38,480-621-8088,Yavapai,Prescott,AZ,Half-yearly,138943,Yes
+923329,Nettie,F,nettie.preston@gmail.com,6/26/1979,38.12,216-500-1514,Franklin,Columbus,OH,Half-yearly,174389,Yes
+901654,Sandy,M,sandy.gillespie@yahoo.com,7/21/1989,28.04,231-470-6122,Oakland,Franklin,MI,Half-yearly,143979,Yes
+673438,Christopher,M,christopher.peters@exxonmobil.com,7/24/1989,28.03,316-381-2376,Belvidere,Belvidere,KS,Half-yearly,157427,Yes
+626693,Felicia,F,felicia.gilmore@gmail.com,2/4/1973,44.51,236-751-0200,Lee Mont,Lee Mont,VA,Half-yearly,60433,Yes
+683325,Tyler,M,tyler.mercado@gmail.com,4/23/1968,49.3,228-846-6014,Hattiesburg,Hattiesburg,MS,Half-yearly,111364,Yes
+486465,Arline,F,arline.campbell@gmail.com,12/28/1987,29.6,217-576-2262,Iroquois,Donovan,IL,Half-yearly,148717,Yes
+213493,Margo,F,margo.daniels@gmail.com,1/26/1970,47.53,219-923-9444,Jefferson,Madison,IN,Half-yearly,96218,Yes
+234177,Kareem,M,kareem.jimenez@gmail.com,7/23/1982,35.04,212-998-0652,Niagara,Niagara Falls,NY,Half-yearly,105034,Yes
+289041,Nanette,F,nanette.lee@aol.com,5/13/1963,54.25,209-309-8591,Tulare,Terra Bella,CA,Half-yearly,114631,Yes
+384810,Myra,F,myra.franco@hotmail.com,2/11/1990,27.48,270-570-5121,Bullitt,Shepherdsville,KY,Single,87704,Yes
+149750,Luther,M,luther.harrell@hotmail.com,1/28/1980,37.52,229-521-3282,Randolph,Cuthbert,GA,Single,152889,Yes
+864858,Ramon,M,ramon.campbell@walmart.com,9/22/1990,26.87,203-886-1827,Windham,Sterling,CT,Single,194123,Yes
+856418,Sallie,F,sallie.huffman@walmart.com,8/11/1962,55,229-946-2253,Covington,Covington,GA,Single,70060,Yes
+415537,Shirley,F,shirley.herrera@gmail.com,8/4/1977,40.01,209-239-8332,Orange,Garden Grove,CA,Single,73333,Yes
+414557,Corey,M,corey.harrell@yahoo.com,7/23/1971,46.05,212-792-8145,Onondaga,Syracuse,NY,Single,40261,Yes
+999475,Carrie,F,carrie.keller@gmail.com,3/12/1994,23.39,479-566-8608,Miller,Doddridge,AR,Single,79233,Yes
+554345,Ofelia,F,ofelia.rivers@gmail.com,5/14/1974,43.24,203-437-2507,New London,Taftville,CT,Half-yearly,53050,Yes
+349751,Shelton,M,shelton.harrison@yahoo.com,4/20/1986,31.29,319-398-8029,Hancock,Klemme,IA,Half-yearly,129402,Yes
+194598,Carlene,F,carlene.bernard@aol.com,7/21/1994,23.04,339-681-0793,Nantucket,Siasconset,MA,Half-yearly,56938,Yes
+466860,Earline,F,earline.cherry@bp.com,7/19/1975,42.05,215-613-8378,Dauphin,Lykens,PA,Half-yearly,154554,Yes
+618554,Kitty,F,kitty.mathis@gmail.com,11/2/1958,58.78,503-291-7361,Multnomah,Portland,OR,Half-yearly,131033,Yes
+535812,Lavonne,F,lavonne.carney@bp.com,11/24/1969,47.71,210-383-2844,DeWitt,Westhoff,TX,Half-yearly,143616,Yes
+500345,Reyna,F,reyna.marks@hotmail.com,10/10/1982,34.82,216-657-0482,Stark,Alliance,OH,Half-yearly,109805,No
+735598,Preston,M,preston.perez@yahoo.com,10/30/1961,55.78,231-627-1020,Chippewa,Rudyard,MI,Half-yearly,69430,No
+921061,Isaac,M,isaac.cochran@charter.net,7/14/1964,53.07,212-938-7324,Nassau,Lynbrook,NY,Half-yearly,45973,No
+968785,Noe,M,noe.clay@bellsouth.net,3/22/1975,42.38,217-458-3909,McHenry,Solon Mills,IL,Half-yearly,180086,No
+735499,Callie,F,callie.cohen@aol.com,12/25/1967,49.62,212-913-8969,New York,New York City,NY,Half-yearly,56526,No
+983480,Elliott,M,elliott.marks@aol.com,1/29/1966,51.53,229-435-8916,Fulton,Atlanta,GA,Half-yearly,100866,No
+206279,Georgina,F,georgina.lamb@gmail.com,11/9/1991,25.73,316-334-5403,Bourbon,Uniontown,KS,Half-yearly,56863,No
+582100,Frances,M,frances.may@rediffmail.com,11/20/1966,50.72,201-510-4857,Bergen,Little Ferry,NJ,Half-yearly,191830,No
+821988,Marc,M,marc.hurley@gmail.com,7/21/1982,35.04,210-771-0515,Coke,Robert Lee,TX,Half-yearly,88052,No
+611384,Nathaniel,M,nathaniel.bates@exxonmobil.com,11/2/1967,49.77,304-485-6950,Wyoming,Covel,WV,Half-yearly,166017,No
+993792,Colby,M,colby.holder@walmart.com,8/8/1973,44,229-363-7104,Muscogee,Midland,GA,Half-yearly,62228,No
+316999,Dee,F,dee.love@ibm.com,9/21/1963,53.89,219-453-1822,Denham,Denham,IN,Half-yearly,93272,No
+880526,Willie,M,willie.gibson@gmail.com,1/9/1962,55.59,210-672-1876,Dallas,Desoto,TX,Half-yearly,191109,No
+201612,Alison,F,alison.walsh@btinternet.com,8/12/1971,45.99,803-754-2504,Saluda,Monetta,SC,Yearly,154700,No
+481137,Gena,F,gena.holman@ntlworld.com,5/5/1989,28.25,479-730-0439,Franklin,Alix,AR,Yearly,42626,No
+191985,Tammy,F,tammy.casey@gmail.com,4/14/1980,37.31,216-524-3435,Putnam,Ottoville,OH,Yearly,192743,No
+244500,Shirley,F,shirley.waller@walmart.com,6/24/1959,58.13,270-487-2309,Lawrence,Martha,KY,Single,130706,No
+920668,Joanna,F,joanna.poole@bellsouth.net,5/25/1987,30.2,314-243-5461,Bates,Adrian,MO,Yearly,141884,No
+335470,Amber,F,amber.mendoza@gmail.com,2/5/1973,44.5,603-466-5911,Cheshire,Walpole,NH,Yearly,63144,No
+150036,Lourdes,F,lourdes.hull@hotmail.com,5/27/1968,49.2,480-286-0831,Pima,Catalina,AZ,Yearly,64976,No
+251640,Kim,F,kim.england@gmail.com,2/18/1970,47.47,423-810-3573,Putnam,Baxter,TN,Quatrly,112635,No
+588702,Haley,F,haley.maddox@gmail.com,3/13/1972,45.41,480-776-8203,Apache,Eagar,AZ,Quatrly,160196,Yes
+707453,Rory,M,rory.atkins@gmail.com,9/5/1966,50.93,270-530-6531,Kona,Kona,KY,Quatrly,155903,Yes
+239168,Kathrine,F,kathrine.whitaker@yahoo.com,7/30/1992,25.01,210-927-7641,Galveston,Port Bolivar,TX,Yearly,183618,Yes
+146790,Lou,F,lou.buckner@gmail.com,10/29/1989,27.76,701-559-9925,Eddy,Sheyenne,ND,Yearly,45969,Yes
+637843,Karla,F,karla.barrera@gmail.com,6/16/1966,51.15,406-503-5614,Gallatin,Bozeman,MT,Yearly,172421,Yes
+689587,Ava,F,ava.kane@aol.com,4/10/1983,34.32,219-501-7805,Sullivan,Fairbanks,IN,Yearly,82550,Yes
+126316,Roseann,F,roseann.riley@aol.com,8/17/1976,40.97,605-260-9998,Pennington,Rochford,SD,Single,73715,Yes
+318026,Elizabeth,F,elizabeth.fernandez@gmail.com,7/4/1995,22.08,236-680-8124,Dabneys,Dabneys,VA,Single,125562,Yes
+848311,Flora,F,flora.decker@aol.com,8/20/1957,59.98,385-701-5077,Sevier,Aurora,UT,Single,83996,Yes
+774548,Shannon,F,shannon.parker@yahoo.com,12/17/1987,29.63,907-888-7743,Fairbanks North Star,North Pole,AK,Single,96768,Yes
+611233,James,F,james.cain@gmail.com,1/4/1996,21.58,208-623-6536,Canyon,Wilder,ID,Yearly,184223,Yes
+421652,Craig,M,craig.roberts@yahoo.co.uk,9/26/1964,52.87,217-340-7427,Winnebago,Rockford,IL,Yearly,174547,Yes
+528969,Celina,F,celina.huffman@aol.com,8/25/1977,39.95,303-570-6473,Custer,Wetmore,CO,Yearly,115518,Yes
+202408,Jimmie,F,jimmie.burnett@microsoft.com,2/23/1995,22.44,206-621-6851,Yakima,Toppenish,WA,Yearly,146772,Yes
+918148,Faye,F,faye.barrett@sbcglobal.net,7/2/1985,32.09,270-979-8387,Crittenden,Marion,KY,Yearly,120502,Yes
+396091,Gena,F,gena.bradley@gmail.com,2/17/1973,44.47,319-335-9592,Hardin,Garden City,IA,Yearly,146840,Yes
+808996,Deandre,M,deandre.good@aol.com,6/13/1966,51.16,207-434-2187,Oxford,South Waterford,ME,Yearly,95240,Yes
+752301,Garland,M,garland.ayers@ibm.com,2/15/1971,46.48,479-957-8137,Madison,Kingston,AR,Yearly,77803,Yes
+654102,Jerrod,M,jerrod.bell@yahoo.com,7/20/1992,25.04,228-915-9184,Lowndes,Columbus,MS,Yearly,116822,Yes
+809104,Alexis,M,alexis.holland@aol.com,12/25/1979,37.62,210-983-8877,Tarrant,Fort Worth,TX,Yearly,189640,Yes
+929548,Deidre,F,deidre.barrett@yahoo.com,5/28/1986,31.19,215-445-7100,Jefferson,Sykesville,PA,Yearly,71568,Yes
+978535,Fred,M,fred.hoffman@microsoft.com,7/1/1970,47.11,210-278-7110,Bexar,San Antonio,TX,Yearly,194639,Yes
+211729,Effie,F,effie.santana@yahoo.com,11/25/1962,54.71,215-545-5060,Butler,Chicora,PA,Yearly,148855,Yes
+760573,Juliette,F,juliette.mosley@hotmail.com,9/2/1964,52.94,605-828-2040,Turner,Chancellor,SD,Yearly,105923,Yes
+979873,Susan,F,susan.schwartz@gmail.com,12/11/1968,48.66,215-578-8596,Centre,Boalsburg,PA,Yearly,165568,Yes
+446702,Richie,M,richie.downs@cox.net,10/12/1960,56.83,209-990-1777,Nevada,Floriston,CA,Yearly,104084,Yes
+505362,Winston,M,winston.griffin@gmail.com,12/6/1993,23.66,236-706-4648,Wythe,Rural Retreat,VA,Yearly,46181,Yes
+451940,Sammy,M,sammy.mills@yahoo.com,2/26/1985,32.44,239-740-8337,Pinellas,Seminole,FL,Yearly,136951,Yes
+411196,Gracie,F,gracie.mosley@yahoo.co.uk,11/29/1967,49.7,252-933-6558,Millers Creek,Millers Creek,NC,Yearly,143460,Yes
+636457,Manuel,M,manuel.bentley@yahoo.com,10/25/1958,58.8,304-225-2645,Wyoming,Cyclone,WV,Half-yearly,157479,Yes
+262702,Roberto,M,roberto.hogan@aol.com,5/24/1964,53.21,319-361-9079,Marshall,Liscomb,IA,Half-yearly,124788,Yes
+422323,Wilma,F,wilma.gray@gmail.com,7/31/1963,54.03,308-513-9527,Johnson,Elk Creek,NE,Half-yearly,184765,Yes
+328389,Roderick,M,roderick.perry@gmail.com,2/27/1984,33.44,339-636-3368,Middlesex,West Townsend,MA,Half-yearly,149121,Yes
+733184,Mayra,F,mayra.bowen@gmail.com,4/22/1972,45.3,209-841-2723,San Diego,San Diego,CA,Half-yearly,53190,Yes
+649821,Andres,M,andres.alexander@yahoo.com,8/21/1982,34.96,212-699-1989,St. Lawrence,Edwards,NY,Half-yearly,99567,Yes
+117956,Quentin,M,quentin.carney@gmail.com,8/5/1978,39.01,218-666-9869,Kittson,Donaldson,MN,Half-yearly,194686,No
+670526,Adrian,F,adrian.dunlap@hotmail.com,1/16/1985,32.55,203-936-3909,Hartford,Hartford,CT,Half-yearly,196585,Yes
+752997,Lelia,F,lelia.sawyer@gmail.com,5/5/1980,37.25,319-717-7518,Iowa,Millersburg,IA,Half-yearly,199120,Yes
+340599,Tad,M,tad.patrick@yahoo.co.in,5/7/1977,40.25,239-831-9507,North Port,North Port,FL,Half-yearly,116817,No
+239415,Pansy,F,pansy.macdonald@gmail.com,1/19/1973,44.55,215-543-6120,Dauphin,Hershey,PA,Half-yearly,97818,Yes
+280326,Agustin,M,agustin.gentry@aol.com,11/27/1962,54.7,423-410-5564,Hamilton,Chattanooga,TN,Half-yearly,182540,Yes
+445516,Riley,M,riley.conley@gmail.com,11/6/1991,25.74,210-262-5038,El Paso,El Paso,TX,Half-yearly,75199,No
+586177,Bernard,M,bernard.leach@sbcglobal.net,11/18/1989,27.71,303-296-0269,Elbert,Kiowa,CO,Half-yearly,66743,Yes
+866614,Lonnie,M,lonnie.gonzales@aol.com,5/12/1968,49.24,210-813-7537,Fort Bend,Missouri City,TX,Half-yearly,113546,No
+751376,Courtney,M,courtney.barnes@ntlworld.com,7/3/1993,24.08,236-958-8215,Roanoke,Elliston,VA,Half-yearly,98833,Yes
+196645,Eliza,F,eliza.odonnell@msn.com,2/15/1987,30.47,339-906-5792,Worcester,Worcester,MA,Half-yearly,155891,Yes
+728839,Jody,M,jody.mejia@verizon.net,11/22/1959,57.72,270-958-5406,Hardin,Rineyville,KY,Half-yearly,55958,Yes
+694921,Pam,F,pam.stuart@gmail.com,1/20/1967,50.55,240-870-5879,Worcester,Stockton,MD,Half-yearly,132035,Yes
+719798,Trevor,M,trevor.romero@gmail.com,9/9/1982,34.91,201-605-4247,Passaic,Clifton,NJ,Half-yearly,124965,Yes
+375797,Tamara,F,tamara.perez@aol.com,4/25/1976,41.28,215-606-2786,Delaware,Essington,PA,Half-yearly,192689,Yes
+160350,Bonita,F,bonita.dixon@gmail.com,9/2/1978,38.93,215-203-8551,Chester,Kennett Square,PA,Half-yearly,119978,Yes
+937931,Raphael,M,raphael.durham@bp.com,4/8/1972,45.33,252-634-5403,Wilson,Elm City,NC,Half-yearly,96734,Yes
+155916,Rosanne,F,rosanne.mendoza@shell.com,9/22/1958,58.89,605-701-8540,Aurora,White Lake,SD,Half-yearly,120595,Yes
+905335,Ola,F,ola.hays@exxonmobil.com,12/2/1979,37.68,209-344-1530,San Bernardino,Redlands,CA,Half-yearly,96619,Yes
+502509,Genevieve,F,genevieve.finley@charter.net,11/7/1957,59.76,219-544-5838,Starke,Ora,IN,Half-yearly,135726,Yes
+563580,Lamont,M,lamont.albert@yahoo.com,4/9/1968,49.33,215-848-2868,Huntingdon,Cassville,PA,Half-yearly,106870,No
+433698,Margie,F,margie.vincent@ibm.com,11/4/1974,42.76,210-722-8478,Nueces,Corpus Christi,TX,Half-yearly,118038,Yes
+163351,Terrell,M,terrell.sears@yahoo.co.uk,4/27/1970,47.28,207-627-0029,Aroostook,Crouseville,ME,Half-yearly,60737,Yes
+898816,Edna,F,edna.riddle@walmart.com,9/20/1960,56.89,209-221-5899,Riverside,Calimesa,CA,Half-yearly,94034,Yes
+641368,Lindsey,M,lindsey.griffin@gmail.com,11/26/1978,38.7,252-283-7529,Forsyth,Winston Salem,NC,Half-yearly,79954,No
+177982,Lorrie,F,lorrie.sears@gmail.com,10/27/1972,44.78,209-769-3945,San Mateo,Montara,CA,Half-yearly,54762,Yes
+330889,Denver,M,denver.mays@charter.net,3/26/1969,48.37,262-586-8792,Lincoln,Merrill,WI,Half-yearly,82632,Yes
+639474,Daisy,F,daisy.giles@yahoo.ca,10/30/1987,29.76,239-794-9867,Hillsborough,Lutz,FL,Half-yearly,92138,No
+911800,Esperanza,F,esperanza.wade@gmail.com,2/26/1970,47.45,252-531-1147,Rockingham,Ruffin,NC,Half-yearly,94276,Yes
+222807,Janice,F,janice.berg@gmail.com,5/25/1958,59.22,216-667-7322,Knox,Bladensburg,OH,Half-yearly,185898,Yes
+516945,Helene,F,helene.gallegos@gmail.com,3/28/1989,28.35,405-378-0829,Garfield,Hunter,OK,Half-yearly,166924,Yes
+230829,Rosario,F,rosario.tyson@gmail.com,6/25/1996,21.1,303-853-1375,Costilla,Garcia,CO,Half-yearly,46179,Yes
+133610,Teresa,F,teresa.bowen@ibm.com,8/2/1986,31.01,201-412-7978,Monmouth,Allenhurst,NJ,Half-yearly,131410,Yes
+791967,Janna,F,janna.joseph@gmail.com,9/29/1981,35.85,207-865-3493,Androscoggin,Durham,ME,Half-yearly,96725,Yes
+772354,Erika,F,erika.myers@gmail.com,4/26/1975,42.28,240-285-1644,Frederick,Walkersville,MD,Half-yearly,87760,Yes
+909265,Mohamed,M,mohamed.fitzgerald@aol.com,3/24/1959,58.39,210-510-6554,Dallas,Dallas,TX,Half-yearly,83708,Yes
+208763,Mohammad,M,mohammad.downs@gmail.com,11/28/1975,41.69,210-270-4781,Dickens,Spur,TX,Quatrly,178707,Yes
+679572,Felipe,M,felipe.vance@gmail.com,2/15/1962,55.48,316-740-9840,Labette,Chetopa,KS,Quatrly,155186,Yes
+992569,Rusty,M,rusty.moran@aol.com,3/29/1980,37.36,217-712-9247,Hancock,Ferris,IL,Quatrly,151325,Yes
+821754,Kirsten,F,kirsten.wolf@aol.com,4/5/1961,56.35,225-903-4040,Winn,Joyce,LA,Quatrly,176179,Yes
+751897,Mercedes,F,mercedes.glass@ntlworld.com,5/29/1964,53.2,209-575-0812,Shasta,Fall River Mills,CA,Quatrly,51802,Yes
+208375,Kenya,F,kenya.merrill@apple.com,3/1/1980,37.43,314-592-6247,Jefferson,House Springs,MO,Quatrly,124374,Yes
+931551,Laurence,M,laurence.camacho@gmail.com,3/10/1989,28.4,215-993-4147,Westmoreland,Norvelt,PA,Quatrly,78330,Yes
+317525,Shirley,F,shirley.potter@yahoo.ca,1/31/1986,31.51,218-695-4963,Washington,Scandia,MN,Quatrly,131453,Yes
+993099,Ricky,M,ricky.snider@gmail.com,6/29/1959,58.12,212-720-7830,Schuyler,Hector,NY,Half-yearly,57113,Yes
+854776,Jerry,F,jerry.jacobs@gmail.com,7/28/1985,32.02,423-846-5095,Knox,Knoxville,TN,Half-yearly,55042,Yes
+437878,Melva,F,melva.payne@bellsouth.net,3/12/1978,39.41,209-282-9349,Sacramento,Represa,CA,Half-yearly,166520,Yes
+350842,Josef,M,josef.lamb@gmail.com,12/16/1973,43.64,205-274-2958,Mobile,Creola,AL,Half-yearly,106297,Yes
+125134,Ellen,F,ellen.bird@sbcglobal.net,3/1/1969,48.44,236-825-0094,Pittsylvania,Hurt,VA,Half-yearly,94337,Yes
+651597,Lydia,F,lydia.lindsey@comcast.net,7/1/1972,45.1,701-553-1269,Pembina,Crystal,ND,Half-yearly,98099,Yes
+801970,Becky,F,becky.bolton@gmail.com,8/18/1972,44.97,217-563-0363,McLean,Bloomington,IL,Half-yearly,93169,Yes
+217117,Edna,F,edna.petersen@gmail.com,4/29/1958,59.29,231-452-4156,Allen Park,Allen Park,MI,Half-yearly,198888,Yes
+539548,Yong,M,yong.poole@sbcglobal.net,7/26/1982,35.03,216-633-4360,Lucas,Holland,OH,Half-yearly,78951,Yes
+479754,Shannon,F,shannon.singleton@yahoo.co.in,1/27/1960,57.54,252-688-2150,Jackson,Glenville,NC,Half-yearly,197109,Yes
+992197,Benny,M,benny.smith@gmail.com,9/22/1988,28.87,503-642-5195,Jackson,Gold Hill,OR,Half-yearly,157586,Yes
+844571,Rhea,F,rhea.faulkner@charter.net,5/9/1968,49.25,319-869-7190,Lyon,Rock Rapids,IA,Half-yearly,81301,Yes
+618339,Tracy,M,tracy.sparks@hotmail.co.uk,6/7/1989,28.16,215-515-9885,Columbia,Numidia,PA,Half-yearly,84715,Yes
+804360,Wilburn,M,wilburn.atkins@btinternet.com,11/25/1972,44.7,217-551-7621,Calhoun,Brussels,IL,Half-yearly,140792,Yes
+335435,Frank,M,frank.larson@charter.net,2/15/1975,42.48,206-649-4354,Walla Walla,Burbank,WA,Half-yearly,163607,Yes
+308129,Barton,M,barton.mullen@apple.com,6/30/1970,47.11,239-785-3194,Miami-Dade,Miami,FL,Half-yearly,112027,Yes
+192292,Max,M,max.barrera@shell.com,8/19/1960,56.98,203-763-8430,New London,Preston,CT,Half-yearly,46171,Yes
+410844,Eliseo,M,eliseo.wilkerson@hotmail.com,8/12/1982,34.98,215-668-0066,Northampton,Wind Gap,PA,Half-yearly,135526,Yes
+530958,Lynne,F,lynne.vinson@hotmail.com,3/30/1988,29.35,206-543-0849,Kitsap,South Colby,WA,Half-yearly,102102,Yes
+232194,Maude,F,maude.jackson@sbcglobal.net,11/28/1965,51.7,339-890-5800,Hampden,Westfield,MA,Half-yearly,88456,Yes
+888196,Kathryn,F,kathryn.sargent@aol.com,7/25/1984,33.03,603-698-4251,Cheshire,West Chesterfield,NH,Half-yearly,141141,Yes
+696612,Dan,M,dan.william@gmail.com,4/22/1966,51.3,262-989-4367,Bayfield,Benoit,WI,Half-yearly,137843,Yes
+775434,Tanisha,F,tanisha.lester@ibm.com,12/11/1977,39.65,219-605-0185,Ripley,Osgood,IN,Half-yearly,73471,Yes
+860093,Kitty,F,kitty.clay@yahoo.ca,12/25/1970,46.62,480-397-1142,Coconino,Flagstaff,AZ,Half-yearly,119388,Yes
+476072,Kent,M,kent.jackson@exxonmobil.com,11/5/1974,42.76,304-562-4105,Kanawha,Nitro,WV,Half-yearly,93228,Yes
+407160,Ashlee,F,ashlee.gardner@gmail.com,1/13/1965,52.57,210-690-7906,Nueces,Corpus Christi,TX,Half-yearly,186933,Yes
+221262,Felecia,F,felecia.sparks@gmail.com,11/21/1962,54.72,252-740-0372,Northampton,Woodland,NC,Half-yearly,90146,Yes
+790187,Horace,M,horace.rasmussen@gmail.com,11/11/1958,58.75,262-943-7850,Chippewa,Jim Falls,WI,Quatrly,97528,Yes
+771945,Rickie,M,rickie.gilmore@gmail.com,8/17/1962,54.98,212-327-7250,Tompkins,Mc Lean,NY,Quatrly,114318,Yes
+372188,Maria,F,maria.chavez@gmail.com,5/10/1986,31.24,215-871-0568,Butler,Karns City,PA,Quatrly,137142,Yes
+657125,Michael,F,michael.west@aol.com,2/9/1972,45.5,423-682-1916,Bradley,Cleveland,TN,Quatrly,79089,Yes
+489761,Paula,F,paula.pacheco@rediffmail.com,11/15/1995,21.72,209-690-7059,Los Angeles,Los Angeles,CA,Quatrly,171987,Yes
+651738,Rick,M,rick.sawyer@earthlink.net,3/9/1960,57.42,803-885-5446,Spartanburg,Spartanburg,SC,Quatrly,127075,Yes
+463929,Ramiro,M,ramiro.rojas@ntlworld.com,11/2/1984,32.76,339-358-4733,Middlesex,Newton Center,MA,Half-yearly,70471,Yes
+521878,Benny,M,benny.stephenson@apple.com,7/4/1986,31.09,212-686-7826,Franklin,Burke,NY,Half-yearly,84296,Yes
+697802,Beryl,F,beryl.nelson@gmail.com,3/2/1988,29.42,206-728-2403,Spokane,Rockford,WA,Half-yearly,140782,Yes
+842936,Bernice,F,bernice.conrad@aol.com,5/29/1980,37.19,316-655-2948,Johnson,Shawnee Mission,KS,Half-yearly,147448,Yes
+333260,Bud,M,bud.knowles@hotmail.com,7/7/1959,58.1,215-600-5286,Northumberland,Trevorton,PA,Half-yearly,109080,Yes
+696218,Anita,F,anita.pratt@gmail.com,5/17/1958,59.24,503-834-3610,Douglas,Sutherlin,OR,Half-yearly,189291,Yes
+161109,Kareem,M,kareem.fuentes@hotmail.com,1/22/1974,43.54,202-469-0012,District of Columbia,Washington,DC,Half-yearly,163337,Yes
+938475,Curtis,M,curtis.hoover@gmail.com,4/28/1978,39.28,219-283-6516,LaPorte,Kingsford Heights,IN,Half-yearly,67164,Yes
+368041,Tamika,F,tamika.rosa@walmart.com,5/10/1973,44.25,262-973-9609,Milwaukee,Milwaukee,WI,Quatrly,107782,Yes
+738794,Carmelo,M,carmelo.scott@yahoo.co.uk,10/9/1986,30.82,210-233-7275,Dallas,Dallas,TX,Quatrly,159630,Yes
+703738,Rebecca,F,rebecca.moon@rediffmail.com,8/6/1987,30,201-750-8519,Warren,Asbury,NJ,Quatrly,72982,Yes
+188409,Pearlie,F,pearlie.bryant@gmail.com,7/9/1987,30.07,203-936-5406,Windham,Hampton,CT,Quatrly,116234,Yes
+206997,Donovan,M,donovan.russo@hotmail.com,11/22/1977,39.71,228-878-7586,Hinds,Jackson,MS,Quatrly,186548,Yes
+677871,Robt,M,robt.ramsey@comcast.net,3/24/1986,31.37,319-414-9330,Muscatine,Moscow,IA,Quatrly,85402,Yes
+963113,Lacy,F,lacy.rowe@gmail.com,2/12/1961,56.49,231-335-9059,Jackson,Jackson,MI,Quatrly,169456,Yes
+291577,Rosemary,F,rosemary.vaughn@aol.com,9/24/1983,33.87,212-410-1378,Westchester,Scarsdale,NY,Quatrly,85449,Yes
+142501,Lon,M,lon.martin@hotmail.co.uk,8/5/1988,29,240-740-1598,Prince George's,Hyattsville,MD,Half-yearly,183005,Yes
+358556,Grace,F,grace.dejesus@yahoo.co.uk,1/25/1979,38.53,262-635-2782,Sawyer,Radisson,WI,Half-yearly,103726,Yes
+126137,Felix,M,felix.haynes@aol.com,8/12/1978,38.99,218-652-4728,Mahnomen,Bejou,MN,Half-yearly,131397,Yes
+409492,Beatriz,F,beatriz.pugh@aol.com,4/12/1982,35.32,229-386-6446,Rabun,Tiger,GA,Half-yearly,188881,Yes
+967793,Louisa,F,louisa.wallace@shaw.ca,6/11/1987,30.15,216-265-3694,Harrison,Short Creek,OH,Half-yearly,104936,Yes
+790017,Aubrey,M,aubrey.myers@hotmail.com,12/27/1958,58.62,803-831-6551,Dorchester,Summerville,SC,Half-yearly,161252,Yes
+998638,Reyna,F,reyna.mccoy@hotmail.com,5/22/1983,34.21,480-932-3895,Gila,Peridot,AZ,Half-yearly,48857,Yes
+402452,Rusty,M,rusty.fletcher@gmail.com,8/9/1979,37.99,701-340-7308,Ramsey,Churchs Ferry,ND,Half-yearly,46383,Yes
+490868,Houston,M,houston.morris@verizon.net,5/19/1981,36.22,201-697-7484,Teterboro,Teterboro,NJ,Half-yearly,142782,Yes
+381597,Edwardo,M,edwardo.stone@gmail.com,7/5/1988,29.08,212-584-3136,Cortland,East Homer,NY,Quatrly,136662,Yes
+852587,Clifton,M,clifton.langley@verizon.net,6/7/1992,25.16,202-316-2397,District of Columbia,Washington,DC,Quatrly,55791,Yes
+732315,Amparo,F,amparo.campos@gmail.com,10/4/1972,44.84,209-768-6733,San Diego,Oceanside,CA,Quatrly,106090,Yes
+937260,Martha,F,martha.schmidt@aol.com,11/2/1982,34.76,209-973-9124,Orange,San Juan Capistrano,CA,Quatrly,82136,Yes
+290034,Charmaine,F,charmaine.hawkins@yahoo.com,8/7/1984,32.99,225-940-9915,Lincoln,Choudrant,LA,Quatrly,163170,Yes
+273325,Jayne,F,jayne.thomas@hotmail.com,1/9/1960,57.59,216-368-2545,Columbiana,Salineville,OH,Quatrly,162559,Yes
+809726,Bryce,M,bryce.cox@gmail.com,11/20/1978,38.71,217-894-6093,Piatt,Cerro Gordo,IL,Quatrly,66919,Yes
+575035,Beatrice,F,beatrice.lawson@hotmail.com,3/26/1990,27.36,270-461-8555,Jefferson,Louisville,KY,Half-yearly,196252,Yes
+211129,Alphonse,M,alphonse.torres@btinternet.com,1/7/1972,45.59,215-803-0126,Northampton,Portland,PA,Half-yearly,191018,Yes
+673451,Rae,F,rae.peck@gmail.com,1/23/1992,25.53,314-763-8976,St. Louis,Saint Louis,MO,Half-yearly,128429,Yes
+230226,Dona,F,dona.maxwell@gmail.com,10/9/1976,40.83,304-526-9538,Hampshire,Shanks,WV,Half-yearly,61066,Yes
+673126,David,M,david.meyer@shaw.ca,6/27/1968,49.12,216-291-3285,Fairfield,Pickerington,OH,Half-yearly,98537,Yes
+615857,Clara,F,clara.harrington@gmail.com,11/15/1985,31.72,218-354-2011,Hennepin,Minneapolis,MN,Half-yearly,69981,Yes
+251151,Harlan,M,harlan.vaughan@bp.com,10/29/1975,41.78,209-424-3616,Monterey,Salinas,CA,Half-yearly,174076,Yes
+232585,Wanda,F,wanda.lester@gmail.com,4/15/1965,52.32,503-961-0382,Linn,Albany,OR,Half-yearly,116510,Yes
+237448,Keri,F,keri.buchanan@hotmail.co.uk,6/16/1985,32.14,210-243-9758,Jefferson,Hamshire,TX,Half-yearly,195057,Yes
+764254,Wilfred,M,wilfred.charles@btinternet.com,3/13/1974,43.41,339-753-7642,Barnstable,East Dennis,MA,Half-yearly,151869,Yes
+837427,Lynn,M,lynn.howe@gmail.com,3/19/1989,28.38,217-992-4159,Cumberland,Neoga,IL,Half-yearly,134078,No
+934912,Faye,F,faye.mercer@yahoo.com,11/25/1982,34.7,219-520-1944,Noble,Rome City,IN,Half-yearly,139511,No
+747004,Bennie,M,bennie.melendez@yahoo.com,7/23/1958,59.05,319-520-6921,Boone,Luther,IA,Half-yearly,137031,No
+497086,Scotty,M,scotty.ellis@hotmail.com,4/25/1973,44.29,210-485-1590,Travis,Austin,TX,Half-yearly,173017,No
+743314,Grady,M,grady.herman@yahoo.ca,6/10/1969,48.16,270-734-0802,Muhlenberg,South Carrollton,KY,Half-yearly,89423,No
+570767,Eula,F,eula.aguirre@exxonmobil.com,3/28/1971,46.37,308-952-0044,Adams,Holstein,NE,Half-yearly,97109,No
+445556,Nita,F,nita.adams@hotmail.com,2/2/1986,31.5,303-350-6217,Larimer,Laporte,CO,Half-yearly,193337,No
+471961,Zachery,M,zachery.harvey@walmart.com,6/13/1971,46.16,319-759-0924,Lee,Fort Madison,IA,Half-yearly,96795,No
+273769,Scot,M,scot.faulkner@bp.com,5/22/1966,51.22,215-941-6239,Northumberland,Watsontown,PA,Half-yearly,80002,No
+280832,Mia,F,mia.joseph@hotmail.co.uk,6/20/1989,28.12,480-327-3003,Navajo,Show Low,AZ,Half-yearly,79628,No
+411066,Hung,M,hung.herman@gmail.com,12/13/1976,40.65,252-987-1594,Lee,Sanford,NC,Half-yearly,103007,No
+843879,Genevieve,F,genevieve.bradshaw@gmail.com,3/4/1967,50.44,339-210-5214,Franklin,Greenfield,MA,Half-yearly,196104,No
+352677,Alec,M,alec.brown@cox.net,3/17/1967,50.4,209-427-5666,Placer,Kings Beach,CA,Half-yearly,177116,No
+237902,Pasquale,M,pasquale.knight@yahoo.co.uk,12/15/1960,56.65,228-544-1642,Reform,Reform,MS,Half-yearly,83170,Yes
+180696,Sheri,F,sheri.whitley@bp.com,12/6/1981,35.67,319-609-9495,Linn,Cedar Rapids,IA,Half-yearly,47731,Yes
+168016,Mauro,M,mauro.marshall@gmail.com,11/23/1988,28.7,252-499-6531,Mecklenburg,Charlotte,NC,Half-yearly,55874,Yes
+481176,Cristina,F,cristina.grimes@yahoo.com,10/7/1993,23.82,236-636-6778,Virginia Beach (city),Virginia Beach,VA,Half-yearly,115968,Yes
+438561,Raul,M,raul.frost@hotmail.com,7/28/1965,52.04,206-925-9280,Spokane,Veradale,WA,Half-yearly,152121,Yes
+709146,Amparo,F,amparo.dixon@charter.net,5/11/1979,38.24,314-820-8867,Lawrence,Pierce City,MO,Half-yearly,64356,Yes
+746945,Efrain,M,efrain.carney@yahoo.com,6/17/1958,59.15,314-609-9445,St. Louis (city),Saint Louis,MO,Half-yearly,175570,Yes
+473773,Stacey,M,stacey.workman@gmail.com,3/26/1966,51.38,262-932-9771,Clark,Thorp,WI,Half-yearly,88171,Yes
+828174,Leon,M,leon.mcgowan@hotmail.com,5/11/1986,31.24,218-817-1739,St. Louis,Meadowlands,MN,Half-yearly,81646,Yes
+438094,Vonda,F,vonda.johns@aol.com,7/9/1972,45.08,209-248-1156,Alameda,Oakland,CA,Half-yearly,137384,Yes
+866744,Jorge,M,jorge.wright@cox.net,6/14/1983,34.15,479-250-1028,Drew,Wilmar,AR,Half-yearly,91684,Yes
+638900,Brandy,F,brandy.bean@ntlworld.com,5/20/1995,22.21,385-706-7340,Carbon,Sunnyside,UT,Half-yearly,134242,Yes
+759226,Lakeisha,F,lakeisha.bowman@hotmail.com,12/30/1967,49.61,239-492-7337,Collier,Vanderbilt Beach,FL,Half-yearly,120192,Yes
+476750,Ernestine,F,ernestine.lambert@msn.com,3/13/1970,47.41,210-747-0304,Armstrong,Wayside,TX,Half-yearly,171471,Yes
+588664,Julius,M,julius.gardner@btinternet.com,12/2/1986,30.67,229-458-0848,Thomas,Meigs,GA,Half-yearly,60243,Yes
+403910,Naomi,F,naomi.jacobs@hotmail.com,5/14/1973,44.24,252-575-4680,Guilford,Greensboro,NC,Half-yearly,56103,Yes
+449655,Sydney,M,sydney.frederick@bellsouth.net,3/7/1992,25.41,405-448-6896,Stephens,Bray,OK,Half-yearly,111989,Yes
+226863,Clifton,M,clifton.tyson@gmail.com,2/23/1967,50.46,212-696-2759,New York,New York City,NY,Half-yearly,163933,Yes
+651910,Consuelo,F,consuelo.hamilton@gmail.com,9/29/1960,56.87,219-392-0976,Hancock,Fortville,IN,Half-yearly,59303,Yes
+717861,Aldo,M,aldo.jarvis@aol.com,12/14/1982,34.64,212-379-9486,Chemung,Chemung,NY,Half-yearly,169588,Yes
+885624,Deidre,F,deidre.anthony@yahoo.co.uk,4/28/1985,32.27,219-606-3736,Ripley,Napoleon,IN,Half-yearly,119545,Yes
+341048,Maura,F,maura.delaney@yahoo.com,8/17/1963,53.98,308-798-7465,Platte,Columbus,NE,Quatrly,97239,Yes
+709748,Claudine,F,claudine.landry@cox.net,2/7/1985,32.49,231-837-5983,St. Joseph,Nottawa,MI,Quatrly,111452,Yes
+454287,Silvia,F,silvia.ortega@hotmail.com,3/25/1966,51.38,212-885-1954,Suffolk,Islip Terrace,NY,Quatrly,176930,No
+390973,Gilda,F,gilda.dillon@msn.com,11/17/1971,45.73,219-515-3678,Marion,Indianapolis,IN,Quatrly,126153,Yes
+570009,Mai,F,mai.jennings@gmail.com,11/4/1984,32.75,503-281-5868,Klamath,Beatty,OR,Half-yearly,191519,No
+454506,Cecilia,F,cecilia.dawson@yahoo.com,2/19/1975,42.47,907-303-2939,Fairbanks North Star,Fort Wainwright,AK,Half-yearly,166310,Yes
+147313,Wilburn,M,wilburn.rowe@yahoo.com,12/13/1977,39.65,207-983-4779,Androscoggin,North Turner,ME,Half-yearly,159272,Yes
+307771,Delbert,M,delbert.cooley@shell.com,11/27/1976,40.69,209-346-5040,Riverside,Palm Desert,CA,Half-yearly,98383,Yes
+498653,Vincent,M,vincent.case@yahoo.com,7/19/1983,34.05,423-599-1914,Dickson,Charlotte,TN,Half-yearly,77053,No
+964798,Orlando,M,orlando.wilkerson@hotmail.com,4/5/1973,44.34,405-323-1414,Alfalfa,Burlington,OK,Half-yearly,183026,Yes
+616656,Isiah,M,isiah.hubbard@hotmail.com,2/28/1971,46.44,212-290-3156,Westchester,Crompond,NY,Quatrly,169164,Yes
+232425,Jeanine,F,jeanine.ratliff@gmail.com,8/14/1967,49.99,252-696-8644,Guilford,Greensboro,NC,Quatrly,88590,No
+504422,Damien,M,damien.middleton@bp.com,6/6/1976,41.17,314-530-2047,New Madrid,Gideon,MO,Quatrly,86783,Yes
+941632,Fern,F,fern.burris@aol.com,10/15/1973,43.81,208-659-3478,Adams,New Meadows,ID,Half-yearly,92781,Yes
+925954,Katy,F,katy.glass@charter.net,8/9/1972,45,406-947-4781,Sheridan,Westby,MT,Half-yearly,183060,Yes
+585128,Nikki,F,nikki.bean@gmail.com,10/14/1989,27.81,240-689-7811,Prince George's,Suitland,MD,Half-yearly,57409,Yes
+271180,Norris,M,norris.alvarez@charter.net,8/29/1985,31.93,307-378-5213,Natrona,Natrona,WY,Half-yearly,188804,Yes
+277858,Reinaldo,M,reinaldo.eaton@gmail.com,5/20/1981,36.21,701-395-3702,Hettinger,Regent,ND,Quatrly,121290,Yes
+118882,Eddie,M,eddie.irwin@hotmail.com,4/8/1985,32.33,252-819-9849,Johnston,Four Oaks,NC,Quatrly,93822,Yes
+957082,Denise,F,denise.swanson@aol.com,5/6/1992,25.24,217-370-8360,Sangamon,Springfield,IL,Quatrly,56255,Yes
+191995,Sasha,F,sasha.beard@gmail.com,6/5/1980,37.17,236-772-2857,Manassas Park (city),Manassas,VA,Half-yearly,78867,Yes
+294276,Josh,M,josh.tucker@hotmail.com,7/28/1991,26.02,218-540-9156,Whalan,Whalan,MN,Half-yearly,191297,Yes
+955260,Rodger,M,rodger.roach@apple.com,11/25/1968,48.7,209-298-1056,Los Angeles,Pico Rivera,CA,Half-yearly,63217,Yes
+457714,Miles,M,miles.mcdaniel@gmail.com,10/29/1963,53.78,303-213-8612,Denver,Denver,CO,Half-yearly,129827,Yes
+327467,Erin,F,erin.french@hotmail.com,5/18/1974,43.22,215-665-8924,Sullivan,Dushore,PA,Half-yearly,112881,Yes
+642418,Rosalind,F,rosalind.booth@shaw.ca,4/4/1971,46.35,218-930-9410,Stevens,Morris,MN,Half-yearly,165075,Yes
+536053,Lenard,M,lenard.conner@gmail.com,6/4/1976,41.18,314-499-3596,Ray,Lawson,MO,Half-yearly,114421,Yes
+950796,Wilson,M,wilson.mcmillan@msn.com,10/17/1990,26.8,302-715-9387,New Castle,Wilmington,DE,Half-yearly,98600,Yes
+475176,Harley,M,harley.murphy@yahoo.com,2/23/1967,50.46,262-535-9860,Langlade,Antigo,WI,Half-yearly,199411,Yes
+873985,Carrie,F,carrie.ramsey@gmail.com,2/20/1995,22.45,316-624-6536,Marshall,Oketo,KS,Half-yearly,126933,Yes
+706151,Esteban,M,esteban.finch@walmart.com,7/23/1978,39.04,209-464-5164,Fresno,Fresno,CA,Half-yearly,84511,Yes
+734991,Merle,M,merle.martin@gmail.com,7/23/1965,52.05,423-297-4006,Robertson,White House,TN,Half-yearly,181338,Yes
+461350,Joanna,F,joanna.rodriquez@gmail.com,11/9/1963,53.75,205-687-4611,Cullman,Cullman,AL,Half-yearly,172175,Yes
+454745,Cyrus,M,cyrus.gardner@gmail.com,5/13/1992,25.22,236-207-5102,Charles City,Charles City,VA,Half-yearly,65708,Yes
+901588,Mariana,F,mariana.mcneil@aol.com,3/25/1961,56.38,239-359-5958,Lake,Paisley,FL,Half-yearly,96974,Yes
+891083,Fletcher,M,fletcher.hardin@btinternet.com,5/24/1995,22.19,205-508-8287,Mobile,Wilmer,AL,Half-yearly,57579,Yes
+654747,Edwin,M,edwin.brock@gmail.com,8/5/1994,22.99,210-948-4620,Travis,Austin,TX,Half-yearly,42553,Yes
+778415,Noreen,F,noreen.bray@gmail.com,11/23/1960,56.72,225-289-2180,Acadia,Iota,LA,Half-yearly,77269,Yes
+996768,Ollie,M,ollie.woods@aol.com,1/26/1984,33.53,225-575-8670,Natchitoches,Melrose,LA,Half-yearly,114205,Yes
+295864,Cleveland,M,cleveland.kirkland@gmail.com,4/22/1993,24.28,239-219-0554,Hernando,Spring Hill,FL,Half-yearly,50146,Yes
+924999,Arron,M,arron.olsen@shaw.ca,1/1/1978,39.6,216-272-3835,Cuyahoga,Cleveland,OH,Half-yearly,132077,Yes
+291663,Elijah,M,elijah.garrison@gmail.com,1/1/1987,30.59,207-804-7339,Washington,Grand Lake Stream,ME,Half-yearly,127017,Yes
+818352,Allie,F,allie.landry@ntlworld.com,1/7/1966,51.59,252-527-8497,Catawba,Claremont,NC,Quatrly,170000,Yes
+636018,Janie,F,janie.cooke@gmail.com,5/12/1970,47.24,405-828-1625,Garfield,Enid,OK,Half-yearly,107644,Yes
+712045,Shelia,F,shelia.conrad@ibm.com,8/15/1974,42.98,907-837-8699,Yukon-Koyukuk (CA),Central,AK,Half-yearly,124937,Yes
+507999,Aida,F,aida.banks@yahoo.com,11/29/1991,25.68,236-512-2651,Nelson,Lovingston,VA,Quatrly,172384,Yes
+770255,Lora,F,lora.wheeler@gmail.com,9/1/1977,39.93,239-457-3136,Broward,Fort Lauderdale,FL,Quatrly,162065,Yes
+977573,Fritz,M,fritz.gross@ibm.com,3/12/1977,40.41,803-557-4819,Charleston,Charleston,SC,Quatrly,106956,Yes
+206695,Natalie,F,natalie.ellison@bp.com,7/6/1972,45.09,219-248-8159,St. Joseph,South Bend,IN,Half-yearly,80478,Yes
+688327,Eliseo,M,eliseo.berry@apple.com,2/28/1985,32.43,218-799-2685,St. Louis,Duluth,MN,Half-yearly,165331,Yes
+903098,Philip,M,philip.mcbride@outlook.com,11/25/1987,29.69,319-230-2779,Scott,Pleasant Valley,IA,Yearly,164512,Yes
+557561,Kay,F,kay.travis@yahoo.co.in,8/14/1967,49.99,480-454-5959,Pima,Sahuarita,AZ,Yearly,195749,Yes
+864516,Liliana,F,liliana.donovan@hotmail.com,9/18/1984,32.88,215-232-3660,Allegheny,Pittsburgh,PA,Yearly,45702,Yes
+743727,Elise,F,elise.kidd@hotmail.com,2/24/1967,50.46,316-273-4511,Nemaha,Bern,KS,Yearly,94854,Yes
+205865,Tabitha,F,tabitha.baird@cox.net,5/3/1961,56.27,210-239-0123,Kaufman,Terrell,TX,Yearly,140358,No
+909024,Barney,M,barney.guerrero@gmail.com,1/2/1974,43.6,308-689-3365,Cheyenne,Dalton,NE,Yearly,54968,Yes
+808609,Myrtle,F,myrtle.riggs@shaw.ca,10/10/1990,26.82,219-544-9146,Madison,Anderson,IN,Yearly,187768,Yes
+804895,Frederick,M,frederick.mckay@gmail.com,8/9/1987,29.99,205-269-7700,Cleburne,Edwardsville,AL,Yearly,69477,Yes
+564246,Debora,F,debora.hinton@hotmail.com,10/1/1994,22.84,215-998-0363,Potter,Cross Fork,PA,Yearly,174027,No
+208230,Merlin,M,merlin.meyers@gmail.com,11/14/1970,46.73,304-362-7855,Tucker,Hambleton,WV,Yearly,121345,Yes
+232387,Celia,F,celia.huffman@rediffmail.com,3/13/1995,22.39,304-761-1064,Mason,Apple Grove,WV,Yearly,166489,Yes
+124923,Tina,F,tina.cabrera@gmail.com,3/12/1970,47.41,314-548-4323,Phelps,Beulah,MO,Yearly,119758,Yes
+274518,Kelsey,F,kelsey.brown@gmail.com,10/9/1985,31.82,212-549-1195,New York,New York City,NY,Yearly,103848,Yes
+288568,Danny,M,danny.shaw@gmail.com,4/27/1972,45.28,215-993-2752,Bucks,Warminster,PA,Yearly,129888,Yes
+802355,Dena,F,dena.gomez@aol.com,12/30/1968,48.61,216-287-8358,Hamilton,Cincinnati,OH,Yearly,146837,Yes
+648744,Edmund,M,edmund.blankenship@yahoo.com,11/11/1965,51.75,209-494-8948,Contra Costa,Pittsburg,CA,Yearly,40783,Yes
+224106,Hershel,M,hershel.cain@walmart.com,3/8/1964,53.42,215-857-2813,Mifflin,Yeagertown,PA,Yearly,154559,Yes
+543320,Lawanda,F,lawanda.whitehead@earthlink.net,7/29/1973,44.03,270-931-3875,Clay,Garrard,KY,Yearly,96388,Yes
+838662,Sophia,F,sophia.gregory@sbcglobal.net,2/11/1986,31.48,205-651-2474,Dale,Midland City,AL,Yearly,91439,No
+138130,Lauren,F,lauren.mcgee@gmail.com,6/12/1977,40.15,225-917-8648,St. John the Baptist,Reserve,LA,Yearly,74674,Yes
+516579,Guy,M,guy.rutledge@hotmail.com,6/28/1994,23.1,252-415-7913,Mecklenburg,Charlotte,NC,Yearly,169802,Yes
+939556,Kurt,M,kurt.oconnor@hotmail.co.uk,6/20/1970,47.14,302-848-9544,Sussex,Ellendale,DE,Yearly,59917,Yes
+495659,Mallory,F,mallory.pearson@aol.com,1/22/1970,47.55,219-806-7357,Allen,Fort Wayne,IN,Yearly,53077,Yes
+630030,Louisa,F,louisa.nelson@aol.com,2/28/1979,38.44,210-952-2993,Brewster,Big Bend National Park,TX,Yearly,193080,Yes
+874431,Diego,M,diego.huffman@hotmail.com,7/10/1961,56.09,262-737-1691,Price,Catawba,WI,Yearly,164626,Yes
+809793,Louisa,F,louisa.ellison@yahoo.co.uk,12/5/1978,38.67,209-240-0581,Los Angeles,Whittier,CA,Yearly,185330,Yes
+942454,Josue,M,josue.cross@shell.com,3/31/1986,31.35,319-631-9453,Johnson,Coralville,IA,Yearly,187192,Yes
+228229,Ines,F,ines.dominguez@sbcglobal.net,1/20/1975,42.55,239-958-4051,Palm Beach,West Palm Beach,FL,Yearly,59681,Yes
+375190,Lance,M,lance.garza@verizon.net,9/22/1979,37.87,228-765-1842,Marshall,Lamar,MS,Yearly,117985,Yes
+532560,Belinda,F,belinda.pace@yahoo.com,7/7/1976,41.08,252-731-0304,Craven,New Bern,NC,Yearly,105760,Yes
+210135,Gracie,F,gracie.herring@shaw.ca,8/20/1988,28.96,262-729-7707,Brown,Green Bay,WI,Yearly,164379,Yes
+228355,Benito,M,benito.knapp@aol.com,7/15/1979,38.06,262-320-6394,Bayfield,Grand View,WI,Yearly,152692,Yes
+965308,Lucinda,F,lucinda.mcgowan@gmail.com,11/15/1983,33.72,270-665-8559,Trimble,Bedford,KY,Yearly,125241,Yes
+768500,Jami,F,jami.golden@gmail.com,11/21/1960,56.72,304-867-4534,Wayne,Glenhayes,WV,Yearly,65123,No
+816768,David,M,david.gutierrez@gmail.com,2/19/1995,22.45,210-529-3564,Cherokee,Wells,TX,Yearly,62888,No
+909541,Clement,M,clement.myers@earthlink.net,11/26/1958,58.71,201-948-7092,Cape May,Marmora,NJ,Yearly,47356,No
+529604,Shane,M,shane.porter@hotmail.co.uk,6/7/1982,35.16,219-628-4542,Allen,Leo,IN,Yearly,110662,No
+140932,Clint,M,clint.gross@microsoft.com,4/20/1969,48.3,206-920-1593,Stevens,Northport,WA,Half-yearly,180618,No
+725731,Ofelia,F,ofelia.pickett@hotmail.com,2/27/1990,27.43,225-584-0970,Beauregard,Sugartown,LA,Half-yearly,181131,No
+214985,Karina,F,karina.green@yahoo.ca,10/3/1967,49.85,314-676-5716,DeKalb,Osborn,MO,Half-yearly,98449,No
+405156,Sam,M,sam.burris@cox.net,2/16/1960,57.48,225-370-4982,Mira,Mira,LA,Half-yearly,59921,No
+249736,Lina,F,lina.shannon@bp.com,2/17/1981,36.47,503-789-2300,Sherman,Kent,OR,Half-yearly,65222,No
+526273,Myles,M,myles.coleman@gmail.com,2/3/1983,34.5,215-472-6369,Westmoreland,Irwin,PA,Half-yearly,90170,No
+654723,Clay,M,clay.freeman@gmail.com,8/9/1973,44,216-365-4336,Williams,Edgerton,OH,Half-yearly,122778,No
+672964,Catalina,F,catalina.guthrie@aol.com,5/13/1975,42.24,262-632-7576,Waukesha,Wales,WI,Half-yearly,132600,No
+240799,Nannie,F,nannie.moon@gmail.com,5/19/1976,41.22,208-295-9974,Elmore,Mountain Home,ID,Half-yearly,90196,No
+169618,Donovan,M,donovan.serrano@btinternet.com,10/16/1988,28.8,339-398-8707,Bristol,South Dartmouth,MA,Half-yearly,126226,No
+430633,Sondra,F,sondra.reyes@yahoo.co.uk,4/18/1993,24.29,316-699-7521,Wabaunsee,Harveyville,KS,Half-yearly,41680,No
+116286,Terrance,M,terrance.duke@microsoft.com,11/2/1984,32.76,262-780-2520,Portage,Junction City,WI,Half-yearly,174683,No
+486573,Colleen,F,colleen.rodriguez@cox.net,2/13/1994,23.47,701-285-0439,Stutsman,Pingree,ND,Half-yearly,127580,No
+371751,Thad,M,thad.luna@gmail.com,2/22/1969,48.46,217-290-9429,Tinley Park,Tinley Park,IL,Half-yearly,43176,No
+783654,Terence,M,terence.clay@outlook.com,7/24/1995,22.03,206-289-2344,Pierce,Tacoma,WA,Half-yearly,83525,Yes
+845635,Bettie,F,bettie.holman@hotmail.co.uk,12/24/1979,37.62,217-804-2508,Peoria,Peoria,IL,Half-yearly,71063,Yes
+266624,Boyd,M,boyd.greer@yahoo.co.in,1/30/1996,21.51,228-432-2011,Greene,Neely,MS,Half-yearly,92696,Yes
+682855,Corey,M,corey.edwards@gmail.com,6/19/1969,48.14,216-702-2482,Gallia,Patriot,OH,Half-yearly,105054,No
+229899,Violet,F,violet.lindsay@charter.net,6/25/1959,58.13,215-568-8372,Forest,Tionesta,PA,Half-yearly,66212,Yes
+701561,Camille,F,camille.mullins@yahoo.com,6/3/1967,50.19,209-722-2736,Riverside,Sun City,CA,Half-yearly,138040,Yes
+114862,Nicole,F,nicole.rodriquez@gmail.com,2/1/1964,53.52,316-533-5513,Bourbon,Garland,KS,Half-yearly,46648,Yes
+445650,Joan,M,joan.bauer@yahoo.com,1/28/1982,35.52,803-643-2327,Richland,Columbia,SC,Half-yearly,138548,Yes
+574544,Kennith,M,kennith.marquez@aol.com,12/9/1971,45.67,236-976-7820,Appomattox,Appomattox,VA,Half-yearly,159674,Yes
+990758,Mae,F,mae.hurst@gmail.com,7/8/1988,29.07,215-708-1606,Franklin,Scotland,PA,Quatrly,115818,Yes
+833424,Denver,M,denver.mann@exxonmobil.com,7/8/1958,59.1,236-242-0935,Buchanan,Shortt Gap,VA,Quatrly,178822,Yes
+864834,Milford,M,milford.dickerson@gmail.com,10/26/1965,51.79,208-338-5685,Boise,Garden Valley,ID,Quatrly,65505,Yes
+703495,Marva,F,marva.phelps@hotmail.com,4/3/1974,43.35,217-648-8520,Cook,Hoffman Estates,IL,Quatrly,88373,Yes
+222179,Betsy,F,betsy.dillon@msn.com,12/4/1982,34.67,229-371-7539,Fulton,Roswell,GA,Quatrly,121009,Yes
+951011,Celeste,F,celeste.ramirez@aol.com,11/30/1981,35.68,339-240-1441,Essex,Andover,MA,Quatrly,189382,Yes
+187639,Tonya,F,tonya.burke@aol.com,6/13/1982,35.15,308-625-7172,Buffalo,Ravenna,NE,Quatrly,155427,Yes
+375051,Deana,F,deana.spencer@hotmail.com,7/30/1976,41.02,505-769-0092,Eddy,Carlsbad,NM,Quatrly,133805,Yes
+509810,Susanne,F,susanne.joseph@gmail.com,12/25/1963,53.63,219-743-6620,Montgomery,Ladoga,IN,Half-yearly,199131,Yes
+625661,Cole,M,cole.spencer@yahoo.com,6/17/1959,58.15,215-232-9400,Dauphin,Harrisburg,PA,Half-yearly,151776,Yes
+662168,Marlon,M,marlon.whitaker@aol.com,4/10/1982,35.32,217-843-4951,Hancock,Dallas City,IL,Quatrly,197971,Yes
+678244,Trudy,F,trudy.frazier@rediffmail.com,6/5/1960,57.18,218-634-3825,Murray,Currie,MN,Quatrly,96992,Yes
+864339,Tania,F,tania.may@hotmail.com,4/3/1960,57.36,239-374-3264,Lee,Lehigh Acres,FL,Quatrly,77106,Yes
+436424,Leonel,M,leonel.guerrero@exxonmobil.com,5/5/1992,25.25,239-927-2354,Pasco,Zephyrhills,FL,Quatrly,135232,Yes
+606834,Nadia,F,nadia.stokes@gmail.com,7/20/1979,38.05,228-757-9686,Tippah,Tiplersville,MS,Half-yearly,155452,Yes
+268942,Cody,M,cody.dillard@gmail.com,2/21/1976,41.46,231-865-3509,Oakland,Bloomfield Hills,MI,Half-yearly,60994,Yes
+484822,Megan,F,megan.fry@gmail.com,1/19/1996,21.54,225-343-4382,Avoyelles,Bunkie,LA,Half-yearly,75765,Yes
+397241,Darla,F,darla.durham@microsoft.com,6/26/1987,30.11,231-256-0340,Genesee,Flushing,MI,Half-yearly,187262,Yes
+924252,Cecile,F,cecile.ross@bp.com,1/4/1994,23.58,209-356-4542,Santa Cruz,Freedom,CA,Half-yearly,55341,Yes
+717079,Helene,F,helene.franco@shell.com,6/25/1967,50.13,316-308-5431,Riley,Manhattan,KS,Half-yearly,73397,Yes
+494794,Vernon,M,vernon.buchanan@gmail.com,12/17/1993,23.63,405-450-9390,Comanche,Meers,OK,Half-yearly,142346,Yes
+970841,Marva,F,marva.santiago@gmail.com,10/27/1988,28.77,210-779-5897,Harris,Bellaire,TX,Half-yearly,196155,Yes
+281794,Yvette,F,yvette.bentley@hotmail.com,5/30/1992,25.18,319-754-5182,Winneshiek,Highlandville,IA,Half-yearly,82765,Yes
+520539,Derick,M,derick.daugherty@hotmail.com,12/31/1985,31.59,216-232-8382,Hamilton,Cincinnati,OH,Half-yearly,188821,Yes
+567269,Fay,F,fay.villarreal@yahoo.com,4/4/1989,28.33,210-524-0203,Grayson,Tioga,TX,Half-yearly,42988,Yes
+749292,Deanna,F,deanna.wilkins@ibm.com,12/18/1962,54.65,314-779-4065,Newton,Saginaw,MO,Half-yearly,113482,Yes
+292144,Augusta,F,augusta.andrews@gmail.com,12/16/1985,31.64,314-692-9769,St. Louis,Maryland Heights,MO,Half-yearly,73007,Yes
+896825,Erna,F,erna.tran@gmail.com,9/7/1976,40.92,205-634-3652,Talladega,Talladega,AL,Half-yearly,71415,Yes
+216408,Luther,M,luther.short@gmail.com,6/13/1993,24.14,216-816-1233,Reynoldsburg,Reynoldsburg,OH,Half-yearly,75243,Yes
+579003,Curtis,M,curtis.williamson@hotmail.com,7/21/1974,43.05,210-264-2382,Harris,Houston,TX,Half-yearly,56599,Yes
+249410,Yvette,F,yvette.rivers@ibm.com,11/9/1971,45.75,203-832-8970,Hartford,Canton Center,CT,Half-yearly,164007,Yes
+241389,Walter,M,walter.velez@gmail.com,4/21/1992,25.28,236-435-5027,Prince William,Gainesville,VA,Half-yearly,77362,Yes
+311405,Christa,F,christa.wilkins@verizon.net,10/25/1974,42.79,262-803-9394,Rusk,Bruce,WI,Half-yearly,60566,Yes
+796832,Milton,M,milton.neal@gmail.com,12/4/1971,45.68,212-967-0888,Rensselaer,Cropseyville,NY,Half-yearly,131141,Yes
+976347,Kimberly,F,kimberly.harmon@gmail.com,10/6/1991,25.83,316-466-5947,Crawford,Farlington,KS,Half-yearly,48858,Yes
+363748,Lemuel,M,lemuel.houston@charter.net,1/22/1979,38.54,206-379-8797,Yakima,Grandview,WA,Half-yearly,137375,Yes
+368157,Marcie,F,marcie.weiss@yahoo.com,10/22/1994,22.78,803-286-4103,Fairfield,Monticello,SC,Half-yearly,136817,Yes
+466203,Bart,M,bart.whitaker@hotmail.com,6/23/1962,55.13,225-846-2122,Rapides,Woodworth,LA,Half-yearly,133522,Yes
+893798,Patrice,F,patrice.koch@shaw.ca,5/19/1995,22.21,210-406-6365,Presidio,Shafter,TX,Half-yearly,188317,Yes
+501368,Xavier,M,xavier.mcintosh@gmail.com,12/10/1990,26.65,212-439-3754,New York,New York City,NY,Half-yearly,119198,Yes
+507594,Lidia,F,lidia.rojas@yahoo.com,9/6/1993,23.91,209-694-7271,Lassen,Litchfield,CA,Half-yearly,150763,Yes
+390989,Essie,F,essie.bridges@yahoo.co.uk,3/13/1993,24.39,215-584-1122,Dauphin,Harrisburg,PA,Half-yearly,93441,Yes
+312364,Sondra,F,sondra.stephens@msn.com,11/11/1976,40.74,209-594-8387,Mendocino,Boonville,CA,Half-yearly,183288,Yes
+444670,Monte,M,monte.contreras@gmail.com,5/14/1975,42.24,206-909-1183,Walla Walla,Wallula,WA,Half-yearly,70105,Yes
+969572,Ernesto,M,ernesto.moreno@hotmail.com,11/27/1965,51.7,236-477-3313,Fauquier,Hume,VA,Half-yearly,50579,Yes
+129405,Ismael,M,ismael.ellis@charter.net,4/10/1975,42.33,603-891-5427,Hillsborough,Mont Vernon,NH,Half-yearly,56375,Yes
+612960,Elijah,M,elijah.hopkins@aol.com,4/26/1994,23.27,210-692-2678,McLennan,Waco,TX,Half-yearly,67336,Yes
+328690,Leigh,F,leigh.mccall@gmail.com,7/18/1987,30.05,262-810-4875,Ozaukee,Cedarburg,WI,Half-yearly,179405,Yes
+960091,Genaro,M,genaro.stafford@yahoo.com,8/17/1979,37.97,702-913-9143,Esmeralda,Dyer,NV,Half-yearly,158345,Yes
+563448,Lucy,F,lucy.hinton@yahoo.com,5/24/1976,41.21,252-398-5078,Northampton,Gaston,NC,Half-yearly,66085,Yes
+982922,Bernadette,F,bernadette.glass@hotmail.com,5/24/1994,23.19,239-692-2402,Pinellas,Pinellas Park,FL,Half-yearly,199184,Yes
+646972,Lee,M,lee.peck@gmail.com,2/10/1976,41.49,210-788-1120,Dallas,Dallas,TX,Half-yearly,140934,Yes
+387407,Damian,M,damian.ellison@gmail.com,4/26/1962,55.29,212-904-4176,Monroe,Rochester,NY,Yearly,42547,Yes
+468347,Dusty,M,dusty.hendricks@gmail.com,6/4/1967,50.18,201-864-2613,Passaic,Paterson,NJ,Yearly,187112,Yes
+707678,Katina,F,katina.wynn@gmail.com,9/13/1987,29.89,303-806-3222,Kiowa,Arlington,CO,Yearly,75205,Yes
+709899,Clair,M,clair.morris@gmail.com,7/7/1958,59.1,206-614-8704,Stevens,Loon Lake,WA,Yearly,155562,Yes
+931481,Ernesto,M,ernesto.short@hotmail.com,2/3/1993,24.5,252-477-0326,Wake,Garner,NC,Yearly,150578,Yes
+415337,Frankie,F,frankie.wiggins@gmail.com,10/24/1958,58.8,303-773-3071,Denver,Denver,CO,Yearly,87276,Yes
+795746,Angelique,F,angelique.guy@hotmail.com,4/23/1990,27.28,210-875-3303,Dallas,Dallas,TX,Yearly,61936,Yes
+880808,Marcelino,M,marcelino.tanner@gmail.com,7/25/1962,55.05,479-283-8919,Saline,Benton,AR,Yearly,53688,Yes
+224527,Tony,M,tony.weiss@aol.com,5/29/1971,46.2,209-283-2005,Orange,Garden Grove,CA,Yearly,121236,Yes
+674436,Lenard,M,lenard.cardenas@yahoo.co.uk,2/6/1981,36.5,252-633-3990,Durham,Bahama,NC,Yearly,100184,Yes
+492623,Aurora,F,aurora.gray@gmail.com,4/29/1965,52.28,505-463-3310,Santa Fe,Santa Fe,NM,Yearly,128566,Yes
+589874,Manuela,F,manuela.koch@aol.com,12/13/1967,49.66,210-616-5554,Mitchell,Loraine,TX,Yearly,57746,Yes
+476018,Jean,F,jean.mclean@walmart.com,5/4/1987,30.25,503-800-6129,Klamath,Chiloquin,OR,Yearly,177228,Yes
+228339,Barbra,F,barbra.sutton@ibm.com,7/1/1987,30.1,252-876-5411,Currituck,Harbinger,NC,Yearly,87718,Yes
+239118,Deann,F,deann.mccormick@yahoo.co.uk,4/12/1959,58.33,215-559-6405,York,Craley,PA,Yearly,59439,Yes
+125780,Reba,F,reba.browning@hotmail.com,9/19/1964,52.89,229-958-4896,Bartow,Kingston,GA,Yearly,144698,Yes
+431018,Rickie,M,rickie.alston@gmail.com,4/13/1990,27.31,319-330-2111,Polk,Des Moines,IA,Yearly,157663,Yes
+452967,Lyman,M,lyman.reeves@yahoo.com,4/10/1990,27.32,207-961-9872,Oxford,Fryeburg,ME,Yearly,102546,Yes
+407464,Deon,M,deon.quinn@gmail.com,9/19/1965,51.89,210-478-8253,Hockley,Anton,TX,Yearly,186558,Yes
+871827,Israel,M,israel.mccarthy@outlook.com,10/5/1972,44.84,216-481-5735,Huron,Willard,OH,Yearly,88536,Yes
+884068,Moises,M,moises.berger@shell.com,5/6/1964,53.26,209-999-1866,San Francisco,San Francisco,CA,Yearly,190560,Yes
+131361,Jerri,F,jerri.douglas@yahoo.com,5/3/1963,54.27,503-571-2413,Multnomah,Portland,OR,Yearly,130614,Yes
+259652,Bradley,M,bradley.nieves@gmail.com,9/2/1983,33.93,423-760-7018,Anderson,Oak Ridge,TN,Yearly,82080,Yes
+430932,Romeo,M,romeo.foster@shell.com,5/5/1983,34.25,307-281-9361,Natrona,Hiland,WY,Yearly,182789,Yes
+637522,Leopoldo,M,leopoldo.mcgee@gmail.com,10/25/1986,30.78,210-459-9807,Stonewall,Old Glory,TX,Yearly,125341,Yes
+467568,Andrea,M,andrea.crawford@exxonmobil.com,8/23/1978,38.96,405-614-0571,Noble,Marland,OK,Yearly,193651,Yes
+683539,Charley,M,charley.daniel@yahoo.com,3/8/1959,58.43,218-468-3365,Hennepin,Minneapolis,MN,Yearly,170822,Yes
+417301,Carolyn,F,carolyn.butler@yahoo.com,8/2/1978,39.01,803-777-9562,Kershaw,Lugoff,SC,Yearly,83011,Yes
+682104,Gracie,F,gracie.stanley@gmail.com,10/24/1974,42.79,201-788-2850,Essex,Essex Fells,NJ,Yearly,125339,Yes
+544977,Jerrold,M,jerrold.sweet@gmail.com,11/1/1991,25.76,239-425-4387,Collier,Naples,FL,Yearly,171667,Yes
+928962,Joshua,M,joshua.small@gmail.com,9/17/1960,56.9,205-293-0457,Mobile,Mobile,AL,Yearly,182752,Yes
+248088,Kristy,F,kristy.jordan@hotmail.com,12/15/1989,27.64,210-315-2628,Jefferson,Nome,TX,Half-yearly,89291,Yes
+599683,Spencer,M,spencer.williams@hotmail.com,8/9/1977,39.99,479-987-0408,Prairie,Des Arc,AR,Half-yearly,180288,Yes
+117980,Ashley,F,ashley.ochoa@shell.com,8/24/1978,38.95,505-459-6399,Socorro,San Acacia,NM,Half-yearly,145452,Yes
+899405,Rocco,M,rocco.wall@gmail.com,10/2/1964,52.85,603-449-3958,Carroll,Wolfeboro Falls,NH,Half-yearly,45497,Yes
+935067,Sonny,M,sonny.carey@gmail.com,10/27/1961,55.79,308-667-7346,Lincoln,Maxwell,NE,Half-yearly,68748,Yes
+521604,Erich,M,erich.goodman@gmail.com,4/3/1962,55.36,304-784-4393,Boone,Seth,WV,Half-yearly,138832,Yes
+848091,Mack,M,mack.massey@shaw.ca,5/15/1993,24.22,210-302-1647,Atascosa,Pleasanton,TX,Half-yearly,139079,Yes
+999219,Vicky,F,vicky.burgess@hotmail.com,4/6/1992,25.33,603-674-2032,Coos,Colebrook,NH,Half-yearly,176844,Yes
+209627,Willa,F,willa.hensley@gmail.com,11/1/1965,51.77,218-328-5008,Sibley,Gaylord,MN,Half-yearly,178032,Yes
+642586,Reva,F,reva.morales@yahoo.com,12/27/1988,28.6,215-329-9222,Susquehanna,Lawton,PA,Half-yearly,101018,Yes
+651163,Ina,F,ina.cummings@gmail.com,6/22/1993,24.12,210-961-7669,Milam,Rockdale,TX,Half-yearly,62401,Yes
+425289,Kristi,F,kristi.monroe@gmail.com,3/26/1972,45.37,212-734-5344,Sullivan,Swan Lake,NY,Half-yearly,57227,Yes
+314444,Danial,M,danial.carpenter@msn.com,7/26/1986,31.03,215-719-9400,Lehigh,Macungie,PA,Half-yearly,185825,Yes
+956821,Benita,F,benita.duncan@gmail.com,11/17/1957,59.73,423-901-1808,Gibson,Idlewild,TN,Half-yearly,50803,Yes
+711278,Dwayne,M,dwayne.kim@ibm.com,1/4/1976,41.59,405-870-4505,Jefferson,Waurika,OK,Half-yearly,173554,Yes
+125371,Lorrie,F,lorrie.rocha@aol.com,1/16/1995,22.55,304-719-7057,Raleigh,Helen,WV,Half-yearly,42245,Yes
+906259,Juliana,F,juliana.hines@gmail.com,12/15/1979,37.64,262-884-6814,Milwaukee,Milwaukee,WI,Half-yearly,115340,Yes
+327429,Mac,M,mac.mcleod@gmail.com,2/5/1979,38.5,401-501-1565,Washington,North Kingstown,RI,Half-yearly,168548,Yes
+272413,Bryce,M,bryce.bonner@gmail.com,2/13/1958,59.49,505-386-4693,Do¤a Ana,Las Cruces,NM,Quatrly,141453,Yes
+645306,Guadalupe,M,guadalupe.holcomb@hotmail.com,2/27/1981,36.44,316-841-2836,Dickinson,Talmage,KS,Quatrly,175151,Yes
+180869,Jacob,M,jacob.cherry@yahoo.co.in,10/4/1970,46.85,603-796-6037,Rockingham,East Kingston,NH,Quatrly,126821,Yes
+222563,Jeanette,F,jeanette.rivera@aol.com,9/3/1963,53.94,270-857-0407,Pendleton,De Mossville,KY,Quatrly,63519,Yes
+541221,Jefferson,M,jefferson.holt@yahoo.ca,7/17/1996,21.04,701-992-3274,Grand Forks,Mekinock,ND,Quatrly,68295,Yes
+198476,Dillon,M,dillon.dunn@yahoo.ca,6/18/1973,44.14,209-642-0845,Santa Cruz,Santa Cruz,CA,Quatrly,159350,Yes
+664807,Bertie,F,bertie.slater@gmail.com,2/3/1994,23.5,215-850-8359,McKean,East Smethport,PA,Half-yearly,120043,Yes
+673745,Hannah,F,hannah.cooper@shaw.ca,10/4/1993,23.83,240-919-2748,Baltimore (city),Baltimore,MD,Quatrly,126393,Yes
+812026,Jon,M,jon.mcneil@hotmail.com,3/22/1973,44.38,218-998-7784,Swift,Appleton,MN,Quatrly,112059,Yes
+957459,Caitlin,F,caitlin.mann@hotmail.com,11/5/1961,55.76,225-886-1747,St. James,Hester,LA,Half-yearly,170909,Yes
+118109,Doris,F,doris.giles@aol.com,1/3/1959,58.61,308-666-7569,Dawson,Sumner,NE,Half-yearly,176813,Yes
+900863,Barbra,F,barbra.hobbs@outlook.com,5/9/1991,26.24,236-666-5502,Montgomery,Roanoke,VA,Half-yearly,41746,Yes
+147382,Hung,M,hung.witt@apple.com,8/6/1965,52.01,479-636-8265,Carroll,Beaver,AR,Half-yearly,149006,Yes
+456816,Adele,F,adele.scott@yahoo.com,8/29/1980,36.94,207-661-8706,Oxford,Porter,ME,Half-yearly,111047,Yes
+437096,Stella,F,stella.guy@btinternet.com,10/13/1979,37.82,210-990-9956,Dallas,Dallas,TX,Half-yearly,83468,Yes
+159397,Clement,M,clement.lancaster@charter.net,8/13/1971,45.99,406-298-8084,Yellowstone,Billings,MT,Half-yearly,60567,Yes
+169739,Rosetta,F,rosetta.decker@bp.com,4/3/1993,24.33,252-964-7255,Burke,Morganton,NC,Half-yearly,116175,Yes
+995863,Caleb,M,caleb.poole@hotmail.com,4/19/1972,45.3,212-282-7388,Suffolk,Eastport,NY,Half-yearly,178642,Yes
+779374,Dudley,M,dudley.elliott@yahoo.com,9/8/1966,50.92,217-293-4309,Winnebago,Rockford,IL,Half-yearly,173380,Yes
+587639,Barbara,F,barbara.palmer@yahoo.com,6/7/1984,33.16,225-544-2407,Orleans,New Orleans,LA,Half-yearly,72749,Yes
+964222,Alana,F,alana.henderson@gmail.com,6/15/1959,58.16,701-366-9793,Cass,Erie,ND,Half-yearly,73888,Yes
+597006,Hazel,F,hazel.case@aol.com,8/3/1962,55.02,228-989-5956,Thornton,Thornton,MS,Half-yearly,42726,Yes
+688836,Erich,M,erich.lyons@gmail.com,3/31/1996,21.34,303-271-1917,Jefferson,Morrison,CO,Half-yearly,129446,Yes
+498361,Elise,F,elise.zimmerman@gmail.com,12/26/1977,39.61,215-954-2885,Lackawanna,Scranton,PA,Half-yearly,159589,Yes
+759183,Mauro,M,mauro.fernandez@gmail.com,6/9/1982,35.16,423-250-3418,Shelby,Memphis,TN,Half-yearly,148251,Yes
+186298,Luisa,F,luisa.mcintyre@outlook.com,5/6/1963,54.27,316-947-5074,Sedgwick,Wichita,KS,Half-yearly,134990,Yes
+776211,Duane,M,duane.lowery@aol.com,12/12/1979,37.65,202-744-6568,District of Columbia,Washington,DC,Half-yearly,66599,Yes
+337146,Weldon,M,weldon.hyde@gmail.com,2/18/1974,43.47,210-906-6433,Bexar,San Antonio,TX,Half-yearly,66293,Yes
+273427,Ilene,F,ilene.head@apple.com,3/6/1986,31.42,218-848-8169,Washington,Scandia,MN,Half-yearly,193647,Yes
+329548,Phil,M,phil.montgomery@btinternet.com,11/13/1991,25.72,503-244-7905,Yamhill,Dayton,OR,Half-yearly,102279,Yes
+955183,Jonas,M,jonas.underwood@exxonmobil.com,7/13/1995,22.06,479-958-4553,Polk,Hatfield,AR,Half-yearly,54302,Yes
+862947,Benita,F,benita.mcgee@hotmail.com,12/30/1970,46.61,405-902-2464,Kay,Nardin,OK,Half-yearly,154473,Yes
+174542,Rochelle,F,rochelle.guerrero@gmail.com,9/10/1992,24.9,229-820-6585,Chatham,Pooler,GA,Half-yearly,135242,Yes
+857324,Terra,F,terra.webb@gmail.com,7/1/1973,44.1,216-696-0115,Mahoning,Youngstown,OH,Half-yearly,179095,Yes
+678498,Buford,M,buford.zimmerman@yahoo.ca,9/4/1994,22.91,210-683-4660,Cooke,Myra,TX,Half-yearly,159050,Yes
+661971,Emanuel,M,emanuel.nichols@hotmail.co.uk,6/5/1962,55.18,228-269-2893,Yazoo,Yazoo City,MS,Half-yearly,154645,Yes
+537235,Cheryl,F,cheryl.french@aol.com,8/20/1985,31.96,203-248-3705,Fairfield,Monroe,CT,Half-yearly,191484,Yes
+712170,Theodore,M,theodore.dale@exxonmobil.com,12/17/1994,22.63,217-241-9866,Henry,Opheim,IL,Half-yearly,40096,Yes
+285184,Ginger,F,ginger.palmer@btinternet.com,5/23/1978,39.21,505-316-8178,Mora,Valmora,NM,Half-yearly,46866,Yes
+994907,Lilian,F,lilian.stein@aol.com,6/23/1996,21.11,239-558-2134,Duval,Neptune Beach,FL,Quatrly,198733,Yes
+523887,Gilbert,M,gilbert.luna@microsoft.com,10/1/1968,48.85,216-441-7069,Darke,North Star,OH,Quatrly,176601,Yes
+684722,Waldo,M,waldo.wright@bp.com,1/26/1973,44.53,252-444-7824,Johnston,Clayton,NC,Quatrly,92597,Yes
+792224,Tommie,M,tommie.cunningham@btinternet.com,7/12/1977,40.07,303-578-8897,Park,Alma,CO,Quatrly,65809,Yes
+199699,George,M,george.potts@msn.com,1/13/1961,56.58,228-447-7099,Calhoun,Vardaman,MS,Quatrly,132568,Yes
+953997,Graham,M,graham.hutchinson@microsoft.com,5/18/1985,32.22,216-832-6715,Pike,Stockdale,OH,Quatrly,123103,Yes
+149818,Ophelia,F,ophelia.pena@gmail.com,1/11/1986,31.56,229-494-7152,Camden,Kingsland,GA,Half-yearly,89068,No
+352882,Lon,M,lon.harper@aol.com,4/24/1994,23.28,316-912-3105,Johnson,Shawnee Mission,KS,Yearly,128467,Yes
+760995,Irvin,M,irvin.witt@gmail.com,1/25/1993,24.52,479-538-7205,Howard,Dierks,AR,Yearly,148387,Yes
+873626,Sheri,F,sheri.spears@yahoo.com,1/7/1982,35.58,304-279-5182,Kanawha,Gallagher,WV,Yearly,144280,No
+247051,Alberta,F,alberta.page@hotmail.com,2/5/1981,36.5,207-407-3515,Penobscot,Levant,ME,Yearly,179637,Yes
+715045,Kerri,F,kerri.santos@yahoo.com,11/10/1982,34.74,479-892-9591,Pulaski,College Station,AR,Half-yearly,74456,Yes
+601808,Olin,M,olin.case@hotmail.com,6/6/1991,26.16,308-857-4365,Thayer,Carleton,NE,Yearly,177331,Yes
+569286,Stefan,M,stefan.jacobs@cox.net,9/26/1983,33.86,236-864-7510,Fredericksburg (city),Fredericksburg,VA,Yearly,176707,Yes
+172440,Cody,M,cody.allison@gmail.com,12/23/1988,28.61,209-221-5075,Los Angeles,Pasadena,CA,Quatrly,84585,No
+568435,Bonnie,F,bonnie.baker@bp.com,8/3/1985,32.01,262-696-9171,Waukesha,Mukwonago,WI,Yearly,72930,Yes
+597409,Luke,M,luke.turner@charter.net,2/12/1987,30.48,231-629-0498,Barry,Freeport,MI,Yearly,121949,Yes
+359608,Eva,F,eva.holman@hotmail.com,9/26/1957,59.88,209-912-6705,Stanislaus,Turlock,CA,Quatrly,82734,No
+803426,Maritza,F,maritza.christian@microsoft.com,5/19/1987,30.21,203-224-9056,Fairfield,Stamford,CT,Yearly,66854,No
+669618,Phyllis,F,phyllis.dudley@yahoo.co.in,11/2/1957,59.78,405-970-2341,Major,Meno,OK,Quatrly,105069,Yes
